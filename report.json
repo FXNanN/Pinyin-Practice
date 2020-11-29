@@ -1,0 +1,664 @@
+啵  Time: 322.2399999960908 cold boot Time: 240  AttemptTimes: 1  ErrorTimes: 0
+啵  Time: 304.88500000326894 cold boot Time: 219.74000000598608  AttemptTimes: 1  ErrorTimes: 0
+
+啵  zhuyin diff change: -0.01  cbt: 240  akt: 161.1199999980454  ErrorTimes: 0  showedZhuyin: false  normal cdt: 325.8619882045858  normal time: 278.09849304143466
+啵  zhuyin diff change: -0.01  cbt: 219.74000000598608  akt: 152.44250000163447  ErrorTimes: 0  showedZhuyin: false  normal cdt: 325.8619882045858  normal time: 278.09849304143466
+
+
+啵  pinyin diff change: -0.5242826383372459  Time: 322.2399999960908 cold boot Time: 240  AttemptTimes: 1  ErrorTimes: 0  normal time: 278.09849304143466  average time: 570.5136915889931
+啵  pinyin diff change: -0.5360951844057844  Time: 304.88500000326894 cold boot Time: 219.74000000598608  AttemptTimes: 1  ErrorTimes: 0  normal time: 278.09849304143466  average time: 570.5136915889931
+
+
+false
+
+显  Time: 337.8150000011083 cold boot Time: 293  AttemptTimes: 1  ErrorTimes: 0
+耀  Time: 396.22499999863794 cold boot Time: 292.42500000150176  AttemptTimes: 1  ErrorTimes: 0
+
+显  zhuyin diff change: -0.01  cbt: 293  akt: 168.90750000055414  ErrorTimes: 0  showedZhuyin: false  normal cdt: 319.5607104458647  normal time: 268.91262121988706
+耀  zhuyin diff change: -0.01  cbt: 292.42500000150176  akt: 198.11249999931897  ErrorTimes: 0  showedZhuyin: false  normal cdt: 319.5607104458647  normal time: 268.91262121988706
+
+
+显  pinyin diff change: -0.5049127126240207  Time: 337.8150000011083 cold boot Time: 293  AttemptTimes: 1  ErrorTimes: 0  normal time: 268.91262121988706  average time: 566.779862385523
+耀  pinyin diff change: -0.45655554875761284  Time: 396.22499999863794 cold boot Time: 292.42500000150176  AttemptTimes: 1  ErrorTimes: 0  normal time: 268.91262121988706  average time: 566.779862385523
+
+
+false
+
+憷  Time: 210.7100000048522 cold boot Time: 116  AttemptTimes: 1  ErrorTimes: 0
+
+憷  zhuyin diff change: -0.01  cbt: 116  akt: 105.3550000024261  ErrorTimes: 0  showedZhuyin: false  normal cdt: 299.2046394012782  normal time: 260.734740159014
+
+
+憷  pinyin diff change: -0.5859826199380413  Time: 210.7100000048522 cold boot Time: 116  AttemptTimes: 1  ErrorTimes: 0  normal time: 260.734740159014  average time: 563.5428636366078
+
+
+false
+
+你  Time: 910.74500000017 cold boot Time: 290  AttemptTimes: 1  ErrorTimes: 0
+在  Time: 337.32500000612345 cold boot Time: 245.15500000258908  AttemptTimes: 1  ErrorTimes: 0
+做  Time: 588.0949999975855 cold boot Time: 540.5849999936181  AttemptTimes: 1  ErrorTimes: 0
+什  Time: 216.6099999958533 cold boot Time: 121.22999999701278  AttemptTimes: 1  ErrorTimes: 0
+么  Time: 228.00500000448665 cold boot Time: 126.06500000401866  AttemptTimes: 1  ErrorTimes: 0
+呢  Time: 411.8349999989732 cold boot Time: 115.975000000617  AttemptTimes: 1  ErrorTimes: 0
+
+你  zhuyin diff change: -0.005189024205810988  cbt: 290  akt: 455.372500000085  ErrorTimes: 0  showedZhuyin: false  normal cdt: 264.3900688179407  normal time: 248.2327081425273
+在  zhuyin diff change: -0.01  cbt: 245.15500000258908  akt: 168.66250000306172  ErrorTimes: 0  showedZhuyin: false  normal cdt: 264.3900688179407  normal time: 248.2327081425273
+做  zhuyin diff change: -0.0018625229105424096  cbt: 540.5849999936181  akt: 294.0474999987928  ErrorTimes: 0  showedZhuyin: false  normal cdt: 264.3900688179407  normal time: 248.2327081425273
+什  zhuyin diff change: -0.01  cbt: 121.22999999701278  akt: 108.30499999792664  ErrorTimes: 0  showedZhuyin: false  normal cdt: 264.3900688179407  normal time: 248.2327081425273
+么  zhuyin diff change: -0.01  cbt: 126.06500000401866  akt: 114.00250000224332  ErrorTimes: 0  showedZhuyin: false  normal cdt: 264.3900688179407  normal time: 248.2327081425273
+呢  zhuyin diff change: -0.01  cbt: 115.975000000617  akt: 205.9174999994866  ErrorTimes: 0  showedZhuyin: false  normal cdt: 264.3900688179407  normal time: 248.2327081425273
+
+
+你  pinyin diff change: 0.5458588299812523  Time: 910.74500000017 cold boot Time: 290  AttemptTimes: 1  ErrorTimes: 0  normal time: 248.2327081425273  average time: 557.6062931037073
+在  pinyin diff change: -0.4830842771070314  Time: 337.32500000612345 cold boot Time: 245.15500000258908  AttemptTimes: 1  ErrorTimes: 0  normal time: 248.2327081425273  average time: 557.6062931037073
+做  pinyin diff change: 0.15077426777259417  Time: 588.0949999975855 cold boot Time: 540.5849999936181  AttemptTimes: 1  ErrorTimes: 0  normal time: 248.2327081425273  average time: 557.6062931037073
+什  pinyin diff change: -0.5753983523549577  Time: 216.6099999958533 cold boot Time: 121.22999999701278  AttemptTimes: 1  ErrorTimes: 0  normal time: 248.2327081425273  average time: 557.6062931037073
+么  pinyin diff change: -0.5676762973269607  Time: 228.00500000448665 cold boot Time: 126.06500000401866  AttemptTimes: 1  ErrorTimes: 0  normal time: 248.2327081425273  average time: 557.6062931037073
+呢  pinyin diff change: -0.4064375719499888  Time: 411.8349999989732 cold boot Time: 115.975000000617  AttemptTimes: 1  ErrorTimes: 0  normal time: 248.2327081425273  average time: 557.6062931037073
+
+
+false
+
+稂  Time: 2331.4149999984074 cold boot Time: 286  AttemptTimes: 3  ErrorTimes: 2
+
+稂  zhuyin diff change: 0.029661465759361474  cbt: 286  akt: 388.56916666640126  ErrorTimes: 2  showedZhuyin: false  normal cdt: 266.5510619361466  normal time: 248.2327081425273
+
+
+稂  pinyin diff change: 2  Time: 2331.4149999984074 cold boot Time: 286  AttemptTimes: 3  ErrorTimes: 2  normal time: 248.2327081425273  average time: 563.1407142859534
+
+
+true
+
+海  Time: 680.8299999947776 cold boot Time: 228  AttemptTimes: 2  ErrorTimes: 0
+漩  Time: 912.3300000019954 cold boot Time: 336.58500000362983  AttemptTimes: 2  ErrorTimes: 0
+三  Time: 961.9300000077346 cold boot Time: 345.77500000066357  AttemptTimes: 2  ErrorTimes: 0
+昧  Time: 838.8349999950151 cold boot Time: 191.52000000030966  AttemptTimes: 2  ErrorTimes: 1
+觉  Time: 442.23000000056345 cold boot Time: 328.3099999971455  AttemptTimes: 1  ErrorTimes: 0
+澄  Time: 455.4250000001048 cold boot Time: 374.2549999951734  AttemptTimes: 1  ErrorTimes: 0
+圆  Time: 425.0099999990198 cold boot Time: 342.10000000166474  AttemptTimes: 1  ErrorTimes: 0
+
+海  zhuyin diff change: -0.01  cbt: 228  akt: 170.2074999986944  ErrorTimes: 0  showedZhuyin: false  normal cdt: 290.6165748305482  normal time: 234.03655715845852
+漩  zhuyin diff change: -0.008067013688474286  cbt: 336.58500000362983  akt: 228.08250000049884  ErrorTimes: 0  showedZhuyin: false  normal cdt: 290.6165748305482  normal time: 234.03655715845852
+三  zhuyin diff change: -0.007568893603722435  cbt: 345.77500000066357  akt: 240.48250000193366  ErrorTimes: 0  showedZhuyin: false  normal cdt: 290.6165748305482  normal time: 234.03655715845852
+昧  zhuyin diff change: 0.05954532301842451  cbt: 191.52000000030966  akt: 209.70874999875377  ErrorTimes: 1  showedZhuyin: false  normal cdt: 290.6165748305482  normal time: 234.03655715845852
+觉  zhuyin diff change: -0.042193330103135654  cbt: 328.3099999971455  akt: 221.11500000028173  ErrorTimes: 0  showedZhuyin: true  normal cdt: 290.6165748305482  normal time: 234.03655715845852
+澄  zhuyin diff change: -0.03481376184963848  cbt: 374.2549999951734  akt: 227.7125000000524  ErrorTimes: 0  showedZhuyin: true  normal cdt: 290.6165748305482  normal time: 234.03655715845852
+圆  zhuyin diff change: -0.008189612228019321  cbt: 342.10000000166474  akt: 212.5049999995099  ErrorTimes: 0  showedZhuyin: false  normal cdt: 290.6165748305482  normal time: 234.03655715845852
+
+
+海  pinyin diff change: -0.4611183354970279  Time: 680.8299999947776 cold boot Time: 228  AttemptTimes: 2  ErrorTimes: 0  normal time: 234.03655715845852  average time: 548.9591836734694
+漩  pinyin diff change: -0.27975072754899605  Time: 912.3300000019954 cold boot Time: 336.58500000362983  AttemptTimes: 2  ErrorTimes: 0  normal time: 234.03655715845852  average time: 548.9591836734694
+三  pinyin diff change: -0.06449486748349123  Time: 961.9300000077346 cold boot Time: 345.77500000066357  AttemptTimes: 2  ErrorTimes: 0  normal time: 234.03655715845852  average time: 548.9591836734694
+昧  pinyin diff change: 1.2766831054015941  Time: 838.8349999950151 cold boot Time: 191.52000000030966  AttemptTimes: 2  ErrorTimes: 1  normal time: 234.03655715845852  average time: 548.9591836734694
+觉  pinyin diff change: -0.31748585464572454  Time: 442.23000000056345 cold boot Time: 328.3099999971455  AttemptTimes: 1  ErrorTimes: 0  normal time: 234.03655715845852  average time: 548.9591836734694
+澄  pinyin diff change: -0.282191337399685  Time: 455.4250000001048 cold boot Time: 374.2549999951734  AttemptTimes: 1  ErrorTimes: 0  normal time: 234.03655715845852  average time: 548.9591836734694
+圆  pinyin diff change: -0.35165819175420987  Time: 425.0099999990198 cold boot Time: 342.10000000166474  AttemptTimes: 1  ErrorTimes: 0  normal time: 234.03655715845852  average time: 548.9591836734694
+
+
+false
+
+虞  Time: 378.25000000279397 cold boot Time: 244  AttemptTimes: 1  ErrorTimes: 0
+舜  Time: 852.2600000013481 cold boot Time: 273.1650000003865  AttemptTimes: 1  ErrorTimes: 0
+
+虞  zhuyin diff change: -0.01  cbt: 244  akt: 189.12500000139698  ErrorTimes: 0  showedZhuyin: false  normal cdt: 284.6759256127827  normal time: 239.37463137064844
+舜  zhuyin diff change: -0.006347797745059368  cbt: 273.1650000003865  akt: 426.13000000067404  ErrorTimes: 0  showedZhuyin: false  normal cdt: 284.6759256127827  normal time: 239.37463137064844
+
+
+虞  pinyin diff change: -0.42908538490966375  Time: 378.25000000279397 cold boot Time: 244  AttemptTimes: 1  ErrorTimes: 0  normal time: 239.37463137064844  average time: 550.2851000000414
+舜  pinyin diff change: 0.5211935880246328  Time: 852.2600000013481 cold boot Time: 273.1650000003865  AttemptTimes: 1  ErrorTimes: 0  normal time: 239.37463137064844  average time: 550.2851000000414
+
+
+false
+
+舅  Time: 350.499999995518 cold boot Time: 185  AttemptTimes: 1  ErrorTimes: 0
+
+舅  zhuyin diff change: -0.01  cbt: 185  akt: 175.249999997759  ErrorTimes: 0  showedZhuyin: false  normal cdt: 274.70833305150444  normal time: 236.16839980200396
+
+
+舅  pinyin diff change: -0.4539413091948745  Time: 350.499999995518 cold boot Time: 185  AttemptTimes: 1  ErrorTimes: 0  normal time: 236.16839980200396  average time: 548.3070297029669
+
+
+false
+
+鸯  Time: 551.414999996312 cold boot Time: 348  AttemptTimes: 1  ErrorTimes: 0
+
+鸯  zhuyin diff change: -0.006738929727907513  cbt: 348  akt: 275.707499998156  ErrorTimes: 0  showedZhuyin: false  normal cdt: 282.037499746354  normal time: 240.12230982161915
+
+
+鸯  pinyin diff change: 0.11432053852454244  Time: 551.414999996312 cold boot Time: 348  AttemptTimes: 1  ErrorTimes: 0  normal time: 240.12230982161915  average time: 548.3374999999605
+
+
+false
+
+蓑  Time: 455.9299999936484 cold boot Time: 353  AttemptTimes: 1  ErrorTimes: 0
+
+蓑  zhuyin diff change: -0.007583419812403768  cbt: 353  akt: 227.9649999968242  ErrorTimes: 0  showedZhuyin: false  normal cdt: 289.1337497717186  normal time: 238.90657883913966
+
+
+蓑  pinyin diff change: -0.3070029982255279  Time: 455.9299999936484 cold boot Time: 353  AttemptTimes: 1  ErrorTimes: 0  normal time: 238.90657883913966  average time: 547.4403398057244
+
+
+false
+
+稂  Time: 797.7199999979348 cold boot Time: 200  AttemptTimes: 1  ErrorTimes: 0
+
+稂  zhuyin diff change: -0.009150929677986669  cbt: 200  akt: 398.8599999989674  ErrorTimes: 0  showedZhuyin: false  normal cdt: 280.22037479454673  normal time: 246.90424989713105
+
+
+稂  pinyin diff change: 0.4405435422413611  Time: 797.7199999979348 cold boot Time: 200  AttemptTimes: 1  ErrorTimes: 0  normal time: 246.90424989713105  average time: 549.8468749998804
+
+
+true
+
+港  Time: 539.2449999989476 cold boot Time: 487  AttemptTimes: 1  ErrorTimes: 0
+乐  Time: 331.23499999952037 cold boot Time: 221.30500000080792  AttemptTimes: 1  ErrorTimes: 0
+
+港  zhuyin diff change: -0.003050318197653572  cbt: 487  akt: 269.6224999994738  ErrorTimes: 0  showedZhuyin: false  normal cdt: 292.93900358366363  normal time: 244.99814616198506
+乐  zhuyin diff change: -0.01  cbt: 221.30500000080792  akt: 165.61749999976018  ErrorTimes: 0  showedZhuyin: false  normal cdt: 292.93900358366363  normal time: 244.99814616198506
+
+
+港  pinyin diff change: 0.05885430548033155  Time: 539.2449999989476 cold boot Time: 487  AttemptTimes: 1  ErrorTimes: 0  normal time: 244.99814616198506  average time: 547.6844811319436
+乐  pinyin diff change: -0.4846072245400381  Time: 331.23499999952037 cold boot Time: 221.30500000080792  AttemptTimes: 1  ErrorTimes: 0  normal time: 244.99814616198506  average time: 547.6844811319436
+
+
+false
+
+润  Time: 440.3599999991711 cold boot Time: 328  AttemptTimes: 1  ErrorTimes: 0
+
+润  zhuyin diff change: -0.008613088052443152  cbt: 328  akt: 220.17999999958556  ErrorTimes: 0  showedZhuyin: false  normal cdt: 296.44510322529726  normal time: 242.51633154574512
+
+
+润  pinyin diff change: -0.3517418703877597  Time: 440.3599999991711 cold boot Time: 328  AttemptTimes: 1  ErrorTimes: 0  normal time: 242.51633154574512  average time: 546.6814485979925
+
+
+false
+
+寄  Time: 348.4849999998696 cold boot Time: 226  AttemptTimes: 1  ErrorTimes: 0
+语  Time: 662.9899999999907 cold boot Time: 469.7100000004866  AttemptTimes: 1  ErrorTimes: 0
+任  Time: 687.0200000004843 cold boot Time: 559.2150000040419  AttemptTimes: 1  ErrorTimes: 0
+何  Time: 215.2300000016112 cold boot Time: 124.9549999993178  AttemptTimes: 1  ErrorTimes: 0
+曾  Time: 413.79500000039116 cold boot Time: 228.71999999915715  AttemptTimes: 1  ErrorTimes: 0
+失  Time: 247.0400000020163 cold boot Time: 143.29500000167172  AttemptTimes: 1  ErrorTimes: 0
+意  Time: 231.97999999683816 cold boot Time: 136.51499999832595  AttemptTimes: 1  ErrorTimes: 0
+的  Time: 345.034999998461 cold boot Time: 163.93999999854714  AttemptTimes: 1  ErrorTimes: 0
+人  Time: 733.460000003106 cold boot Time: 650.2949999994598  AttemptTimes: 1  ErrorTimes: 0
+
+寄  zhuyin diff change: -0.01  cbt: 226  akt: 174.2424999999348  ErrorTimes: 0  showedZhuyin: false  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+语  zhuyin diff change: -0.002512286277845521  cbt: 469.7100000004866  akt: 331.49499999999534  ErrorTimes: 0  showedZhuyin: false  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+任  zhuyin diff change: -0.006102753679014832  cbt: 559.2150000040419  akt: 343.51000000024214  ErrorTimes: 0  showedZhuyin: true  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+何  zhuyin diff change: -0.01  cbt: 124.9549999993178  akt: 107.6150000008056  ErrorTimes: 0  showedZhuyin: false  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+曾  zhuyin diff change: -0.05849389241239269  cbt: 228.71999999915715  akt: 206.89750000019558  ErrorTimes: 0  showedZhuyin: true  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+失  zhuyin diff change: -0.01  cbt: 143.29500000167172  akt: 123.52000000100816  ErrorTimes: 0  showedZhuyin: false  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+意  zhuyin diff change: -0.01  cbt: 136.51499999832595  akt: 115.98999999841908  ErrorTimes: 0  showedZhuyin: false  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+的  zhuyin diff change: -0.01  cbt: 163.93999999854714  akt: 172.5174999992305  ErrorTimes: 0  showedZhuyin: false  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+人  zhuyin diff change: 0.014331413316335683  cbt: 650.2949999994598  akt: 366.730000001553  ErrorTimes: 0  showedZhuyin: false  normal cdt: 300.43533486554406  normal time: 231.0600946417773
+
+
+寄  pinyin diff change: -0.44794134507224487  Time: 348.4849999998696 cold boot Time: 226  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+语  pinyin diff change: 0.33831221465988986  Time: 662.9899999999907 cold boot Time: 469.7100000004866  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+任  pinyin diff change: 0.3696019194926739  Time: 687.0200000004843 cold boot Time: 559.2150000040419  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+何  pinyin diff change: -0.565463870506223  Time: 215.2300000016112 cold boot Time: 124.9549999993178  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+曾  pinyin diff change: -0.36168856808724803  Time: 413.79500000039116 cold boot Time: 228.71999999915715  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+失  pinyin diff change: -0.5411086542900703  Time: 247.0400000020163 cold boot Time: 143.29500000167172  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+意  pinyin diff change: -0.552848898513006  Time: 231.97999999683816 cold boot Time: 136.51499999832595  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+的  pinyin diff change: -0.4516769917386506  Time: 345.034999998461 cold boot Time: 163.93999999854714  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+人  pinyin diff change: 0.4256531825336201  Time: 733.460000003106 cold boot Time: 650.2949999994598  AttemptTimes: 1  ErrorTimes: 0  normal time: 231.0600946417773  average time: 537.7581896550687
+
+
+false
+
+别  Time: 345.26000000408385 cold boot Time: 257  AttemptTimes: 1  ErrorTimes: 0
+有  Time: 488.1749999956228 cold boot Time: 377.8900000004214  AttemptTimes: 1  ErrorTimes: 0
+人  Time: 417.6500000000815 cold boot Time: 305.66500000417  AttemptTimes: 1  ErrorTimes: 0
+间  Time: 576.4250000035972 cold boot Time: 418.4849999989965  AttemptTimes: 1  ErrorTimes: 0
+行  Time: 365.9350000016275 cold boot Time: 257.69999999465654  AttemptTimes: 1  ErrorTimes: 0
+路  Time: 327.6399999958812 cold boot Time: 184.81499999325024  AttemptTimes: 1  ErrorTimes: 0
+难  Time: 336.32999999827007 cold boot Time: 185.06999999954132  AttemptTimes: 1  ErrorTimes: 0
+
+别  zhuyin diff change: -0.01  cbt: 257  akt: 172.63000000204192  ErrorTimes: 0  showedZhuyin: false  normal cdt: 286.2456367757908  normal time: 222.21776525068057
+有  zhuyin diff change: -0.006361409769111872  cbt: 377.8900000004214  akt: 244.0874999978114  ErrorTimes: 0  showedZhuyin: false  normal cdt: 286.2456367757908  normal time: 222.21776525068057
+人  zhuyin diff change: -0.009204213821613894  cbt: 305.66500000417  akt: 208.82500000004075  ErrorTimes: 0  showedZhuyin: false  normal cdt: 286.2456367757908  normal time: 222.21776525068057
+间  zhuyin diff change: -0.004294821224653497  cbt: 418.4849999989965  akt: 288.2125000017986  ErrorTimes: 0  showedZhuyin: false  normal cdt: 286.2456367757908  normal time: 222.21776525068057
+行  zhuyin diff change: -0.01  cbt: 257.69999999465654  akt: 182.96750000081374  ErrorTimes: 0  showedZhuyin: false  normal cdt: 286.2456367757908  normal time: 222.21776525068057
+路  zhuyin diff change: -0.01  cbt: 184.81499999325024  akt: 163.8199999979406  ErrorTimes: 0  showedZhuyin: false  normal cdt: 286.2456367757908  normal time: 222.21776525068057
+难  zhuyin diff change: -0.01  cbt: 185.06999999954132  akt: 168.16499999913503  ErrorTimes: 0  showedZhuyin: false  normal cdt: 286.2456367757908  normal time: 222.21776525068057
+
+
+别  pinyin diff change: -0.4361934689966166  Time: 345.26000000408385 cold boot Time: 257  AttemptTimes: 1  ErrorTimes: 0  normal time: 222.21776525068057  average time: 530.3850813007083
+有  pinyin diff change: 0.0561455058172749  Time: 488.1749999956228 cold boot Time: 377.8900000004214  AttemptTimes: 1  ErrorTimes: 0  normal time: 222.21776525068057  average time: 530.3850813007083
+人  pinyin diff change: -0.3227483731036667  Time: 417.6500000000815 cold boot Time: 305.66500000417  AttemptTimes: 1  ErrorTimes: 0  normal time: 222.21776525068057  average time: 530.3850813007083
+间  pinyin diff change: 0.24495862187155643  Time: 576.4250000035972 cold boot Time: 418.4849999989965  AttemptTimes: 1  ErrorTimes: 0  normal time: 222.21776525068057  average time: 530.3850813007083
+行  pinyin diff change: -0.4101367032291626  Time: 365.9350000016275 cold boot Time: 257.69999999465654  AttemptTimes: 1  ErrorTimes: 0  normal time: 222.21776525068057  average time: 530.3850813007083
+路  pinyin diff change: -0.45631777852691585  Time: 327.6399999958812 cold boot Time: 184.81499999325024  AttemptTimes: 1  ErrorTimes: 0  normal time: 222.21776525068057  average time: 530.3850813007083
+难  pinyin diff change: -0.44659801407880384  Time: 336.32999999827007 cold boot Time: 185.06999999954132  AttemptTimes: 1  ErrorTimes: 0  normal time: 222.21776525068057  average time: 530.3850813007083
+
+
+false
+
+嫁  Time: 348.964999997057 cold boot Time: 216  AttemptTimes: 1  ErrorTimes: 0
+与  Time: 387.4900000008638 cold boot Time: 263.2349999984144  AttemptTimes: 1  ErrorTimes: 0
+耨  Time: 439.7349999998114 cold boot Time: 251.1300000040792  AttemptTimes: 1  ErrorTimes: 0
+檀  Time: 399.06499999779044 cold boot Time: 278.2050000023446  AttemptTimes: 1  ErrorTimes: 0
+王  Time: 262.0950000055018 cold boot Time: 185.5850000065402  AttemptTimes: 1  ErrorTimes: 0
+
+嫁  zhuyin diff change: -0.01  cbt: 216  akt: 174.4824999985285  ErrorTimes: 0  showedZhuyin: false  normal cdt: 266.32525756081657  normal time: 211.45927192689769
+与  zhuyin diff change: -0.01  cbt: 263.2349999984144  akt: 193.7450000004319  ErrorTimes: 0  showedZhuyin: false  normal cdt: 266.32525756081657  normal time: 211.45927192689769
+耨  zhuyin diff change: -0.01  cbt: 251.1300000040792  akt: 219.8674999999057  ErrorTimes: 0  showedZhuyin: false  normal cdt: 266.32525756081657  normal time: 211.45927192689769
+檀  zhuyin diff change: -0.009869950953661756  cbt: 278.2050000023446  akt: 199.53249999889522  ErrorTimes: 0  showedZhuyin: false  normal cdt: 266.32525756081657  normal time: 211.45927192689769
+王  zhuyin diff change: -0.01  cbt: 185.5850000065402  akt: 131.0475000027509  ErrorTimes: 0  showedZhuyin: false  normal cdt: 266.32525756081657  normal time: 211.45927192689769
+
+
+嫁  pinyin diff change: -0.4090841614357319  Time: 348.964999997057 cold boot Time: 216  AttemptTimes: 1  ErrorTimes: 0  normal time: 211.45927192689769  average time: 524.0208333333334
+与  pinyin diff change: -0.34471658035411074  Time: 387.4900000008638 cold boot Time: 263.2349999984144  AttemptTimes: 1  ErrorTimes: 0  normal time: 211.45927192689769  average time: 524.0208333333334
+耨  pinyin diff change: -0.03718543775002223  Time: 439.7349999998114 cold boot Time: 251.1300000040792  AttemptTimes: 1  ErrorTimes: 0  normal time: 211.45927192689769  average time: 524.0208333333334
+檀  pinyin diff change: -0.3187457555874814  Time: 399.06499999779044 cold boot Time: 278.2050000023446  AttemptTimes: 1  ErrorTimes: 0  normal time: 211.45927192689769  average time: 524.0208333333334
+王  pinyin diff change: -0.5083304765408769  Time: 262.0950000055018 cold boot Time: 185.5850000065402  AttemptTimes: 1  ErrorTimes: 0  normal time: 211.45927192689769  average time: 524.0208333333334
+
+
+false
+
+稂  Time: 460.4100000007893 cold boot Time: 191  AttemptTimes: 1  ErrorTimes: 0
+
+稂  zhuyin diff change: -0.01  cbt: 191  akt: 230.20500000039465  ErrorTimes: 0  showedZhuyin: false  normal cdt: 258.7927318047349  normal time: 213.33384473424738
+
+
+稂  pinyin diff change: 0.029613226582016455  Time: 460.4100000007893 cold boot Time: 191  AttemptTimes: 1  ErrorTimes: 0  normal time: 213.33384473424738  average time: 523.3650515463999
+
+
+false
+
+连  Time: 388.6499999994994 cold boot Time: 292  AttemptTimes: 1  ErrorTimes: 0
+甍  Time: 1216.8550000044634 cold boot Time: 1395.5500000023749  AttemptTimes: 1  ErrorTimes: 0
+瘴  Time: 772.2249999990454 cold boot Time: 595.5849999939092  AttemptTimes: 1  ErrorTimes: 0
+疟  Time: 419.0099999977974 cold boot Time: 261.91499999549706  AttemptTimes: 1  ErrorTimes: 0
+秋  Time: 464.90500000072643 cold boot Time: 313.86499999644  AttemptTimes: 1  ErrorTimes: 0
+
+连  zhuyin diff change: -0.01  cbt: 292  akt: 194.3249999997497  ErrorTimes: 0  showedZhuyin: false  normal cdt: 376.90947020229635  normal time: 308.7718913230006
+甍  zhuyin diff change: 0.17  cbt: 1395.5500000023749  akt: 608.4275000022317  ErrorTimes: 0  showedZhuyin: false  normal cdt: 376.90947020229635  normal time: 308.7718913230006
+瘴  zhuyin diff change: -0.001857964036298666  cbt: 595.5849999939092  akt: 386.1124999995227  ErrorTimes: 0  showedZhuyin: false  normal cdt: 376.90947020229635  normal time: 308.7718913230006
+疟  zhuyin diff change: -0.05814490258744201  cbt: 261.91499999549706  akt: 209.5049999988987  ErrorTimes: 0  showedZhuyin: true  normal cdt: 376.90947020229635  normal time: 308.7718913230006
+秋  zhuyin diff change: -0.01  cbt: 313.86499999644  akt: 232.45250000036322  ErrorTimes: 0  showedZhuyin: false  normal cdt: 376.90947020229635  normal time: 308.7718913230006
+
+
+连  pinyin diff change: -0.5044059420256745  Time: 388.6499999994994 cold boot Time: 292  AttemptTimes: 1  ErrorTimes: 0  normal time: 308.7718913230006  average time: 529.6868137255129
+甍  pinyin diff change: 0.6043530202787153  Time: 1216.8550000044634 cold boot Time: 1395.5500000023749  AttemptTimes: 1  ErrorTimes: 0  normal time: 308.7718913230006  average time: 529.6868137255129
+瘴  pinyin diff change: 0.2086385027366801  Time: 772.2249999990454 cold boot Time: 595.5849999939092  AttemptTimes: 1  ErrorTimes: 0  normal time: 308.7718913230006  average time: 529.6868137255129
+疟  pinyin diff change: -0.48350017814576  Time: 419.0099999977974 cold boot Time: 261.91499999549706  AttemptTimes: 1  ErrorTimes: 0  normal time: 308.7718913230006  average time: 529.6868137255129
+秋  pinyin diff change: -0.4485813683728348  Time: 464.90500000072643 cold boot Time: 313.86499999644  AttemptTimes: 1  ErrorTimes: 0  normal time: 308.7718913230006  average time: 529.6868137255129
+
+
+false
+
+泛  Time: 485.0000000001746 cold boot Time: 377  AttemptTimes: 1  ErrorTimes: 0
+酸  Time: 408.00500000221655 cold boot Time: 292.5099999967497  AttemptTimes: 1  ErrorTimes: 0
+
+泛  zhuyin diff change: -0.008399854309328676  cbt: 377  akt: 242.5000000000873  ErrorTimes: 0  showedZhuyin: false  normal cdt: 368.477670863535  normal time: 300.3855069190676
+酸  zhuyin diff change: -0.01  cbt: 292.5099999967497  akt: 204.00250000110827  ErrorTimes: 0  showedZhuyin: false  normal cdt: 368.477670863535  normal time: 300.3855069190676
+
+
+泛  pinyin diff change: -0.41949035318645755  Time: 485.0000000001746 cold boot Time: 377  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.3855069190676  average time: 528.0871153846607
+酸  pinyin diff change: -0.4832244567515046  Time: 408.00500000221655 cold boot Time: 292.5099999967497  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.3855069190676  average time: 528.0871153846607
+
+
+false
+
+千  Time: 353.3350000034552 cold boot Time: 232  AttemptTimes: 1  ErrorTimes: 0
+叶  Time: 915.7149999980466 cold boot Time: 257.3499999950873  AttemptTimes: 1  ErrorTimes: 0
+亚  Time: 932.7900000014342 cold boot Time: 844.7550000007614  AttemptTimes: 1  ErrorTimes: 0
+梨  Time: 561.1299999945913 cold boot Time: 448.67999999405583  AttemptTimes: 1  ErrorTimes: 0
+沙  Time: 316.4900000047055 cold boot Time: 215.16500000143424  AttemptTimes: 1  ErrorTimes: 0
+
+千  zhuyin diff change: -0.01  cbt: 232  akt: 176.6675000017276  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.8875698675208  normal time: 300.1144978857298
+叶  zhuyin diff change: -0.008194253512859647  cbt: 257.3499999950873  akt: 457.8574999990233  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.8875698675208  normal time: 300.1144978857298
+亚  zhuyin diff change: 0.04577233544377868  cbt: 844.7550000007614  akt: 466.3950000007171  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.8875698675208  normal time: 300.1144978857298
+梨  zhuyin diff change: -0.006431654388785184  cbt: 448.67999999405583  akt: 280.5649999972957  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.8875698675208  normal time: 300.1144978857298
+沙  zhuyin diff change: -0.01  cbt: 215.16500000143424  akt: 158.24500000235275  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.8875698675208  normal time: 300.1144978857298
+
+
+千  pinyin diff change: -0.5206762400572968  Time: 353.3350000034552 cold boot Time: 232  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.1144978857298  average time: 532.1148623853849
+叶  pinyin diff change: 0.39195123850967467  Time: 915.7149999980466 cold boot Time: 257.3499999950873  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.1144978857298  average time: 532.1148623853849
+亚  pinyin diff change: 0.4077592062902317  Time: 932.7900000014342 cold boot Time: 844.7550000007614  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.1144978857298  average time: 532.1148623853849
+梨  pinyin diff change: -0.327612824202381  Time: 561.1299999945913 cold boot Time: 448.67999999405583  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.1144978857298  average time: 532.1148623853849
+沙  pinyin diff change: -0.5437724207018562  Time: 316.4900000047055 cold boot Time: 215.16500000143424  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.1144978857298  average time: 532.1148623853849
+
+
+false
+
+刘  Time: 367.50500000215834 cold boot Time: 267  AttemptTimes: 1  ErrorTimes: 0
+琼  Time: 1931.145000002347 cold boot Time: 560.1299999980838  AttemptTimes: 1  ErrorTimes: 0
+
+刘  zhuyin diff change: -0.01  cbt: 267  akt: 183.75250000107917  ErrorTimes: 0  showedZhuyin: false  normal cdt: 389.37193159250023  normal time: 462.1154234939163
+琼  zhuyin diff change: 0.02706576261426879  cbt: 560.1299999980838  akt: 965.5725000011735  ErrorTimes: 0  showedZhuyin: false  normal cdt: 389.37193159250023  normal time: 462.1154234939163
+
+
+刘  pinyin diff change: -0.5880614186257227  Time: 367.50500000215834 cold boot Time: 267  AttemptTimes: 1  ErrorTimes: 0  normal time: 462.1154234939163  average time: 543.2357657658689
+琼  pinyin diff change: 0.652236957193409  Time: 1931.145000002347 cold boot Time: 560.1299999980838  AttemptTimes: 1  ErrorTimes: 0  normal time: 462.1154234939163  average time: 543.2357657658689
+
+
+false
+
+李  Time: 407.8100000048289 cold boot Time: 265  AttemptTimes: 1  ErrorTimes: 0
+霖  Time: 949.2949999951525 cold boot Time: 759.9699999957811  AttemptTimes: 1  ErrorTimes: 0
+恩  Time: 410.6500000018859 cold boot Time: 323.40499999944586  AttemptTimes: 1  ErrorTimes: 0
+
+李  zhuyin diff change: -0.01  cbt: 265  akt: 203.90500000241445  ErrorTimes: 0  showedZhuyin: false  normal cdt: 406.0549381304976  normal time: 439.42795398285364
+霖  zhuyin diff change: -0.0010580226332919478  cbt: 759.9699999957811  akt: 474.64749999757623  ErrorTimes: 0  showedZhuyin: false  normal cdt: 406.0549381304976  normal time: 439.42795398285364
+恩  zhuyin diff change: -0.01  cbt: 323.40499999944586  akt: 205.32500000094296  ErrorTimes: 0  showedZhuyin: false  normal cdt: 406.0549381304976  normal time: 439.42795398285364
+
+
+李  pinyin diff change: -0.5660519997436457  Time: 407.8100000048289 cold boot Time: 265  AttemptTimes: 1  ErrorTimes: 0  normal time: 439.42795398285364  average time: 544.4467105264326
+霖  pinyin diff change: 0.0311545289118543  Time: 949.2949999951525 cold boot Time: 759.9699999957811  AttemptTimes: 1  ErrorTimes: 0  normal time: 439.42795398285364  average time: 544.4467105264326
+恩  pinyin diff change: -0.5649468427343997  Time: 410.6500000018859 cold boot Time: 323.40499999944586  AttemptTimes: 1  ErrorTimes: 0  normal time: 439.42795398285364  average time: 544.4467105264326
+
+
+false
+
+莫  Time: 381.5549999974901 cold boot Time: 262  AttemptTimes: 1  ErrorTimes: 0
+小  Time: 383.32500000298023 cold boot Time: 277.535000001546  AttemptTimes: 1  ErrorTimes: 0
+娘  Time: 372.58999999950174 cold boot Time: 224.5999999945634  AttemptTimes: 1  ErrorTimes: 0
+
+莫  zhuyin diff change: -0.01  cbt: 262  akt: 190.77749999874504  ErrorTimes: 0  showedZhuyin: false  normal cdt: 364.6741998967282  normal time: 403.7820954835508
+小  zhuyin diff change: -0.01  cbt: 277.535000001546  akt: 191.66250000149012  ErrorTimes: 0  showedZhuyin: false  normal cdt: 364.6741998967282  normal time: 403.7820954835508
+娘  zhuyin diff change: -0.01  cbt: 224.5999999945634  akt: 186.29499999975087  ErrorTimes: 0  showedZhuyin: false  normal cdt: 364.6741998967282  normal time: 403.7820954835508
+
+
+莫  pinyin diff change: -0.5631541087799876  Time: 381.5549999974901 cold boot Time: 262  AttemptTimes: 1  ErrorTimes: 0  normal time: 403.7820954835508  average time: 540.2085042736179
+小  pinyin diff change: -0.5623988999210072  Time: 383.32500000298023 cold boot Time: 277.535000001546  AttemptTimes: 1  ErrorTimes: 0  normal time: 403.7820954835508  average time: 540.2085042736179
+娘  pinyin diff change: -0.5669553486447001  Time: 372.58999999950174 cold boot Time: 224.5999999945634  AttemptTimes: 1  ErrorTimes: 0  normal time: 403.7820954835508  average time: 540.2085042736179
+
+
+false
+
+昏  Time: 346.2249999982887 cold boot Time: 264  AttemptTimes: 1  ErrorTimes: 0
+庸  Time: 419.9049999990966 cold boot Time: 279.61000000167405  AttemptTimes: 1  ErrorTimes: 0
+
+昏  zhuyin diff change: -0.01  cbt: 264  akt: 173.11249999914435  ErrorTimes: 0  showedZhuyin: false  normal cdt: 347.10710191651725  normal time: 383.13380992384134
+庸  zhuyin diff change: -0.01  cbt: 279.61000000167405  akt: 209.9524999995483  ErrorTimes: 0  showedZhuyin: false  normal cdt: 347.10710191651725  normal time: 383.13380992384134
+
+
+昏  pinyin diff change: -0.5701915033843252  Time: 346.2249999982887 cold boot Time: 264  AttemptTimes: 1  ErrorTimes: 0  normal time: 383.13380992384134  average time: 537.5674369748796
+庸  pinyin diff change: -0.5361594119315256  Time: 419.9049999990966 cold boot Time: 279.61000000167405  AttemptTimes: 1  ErrorTimes: 0  normal time: 383.13380992384134  average time: 537.5674369748796
+
+
+false
+
+加  Time: 383.3649999985937 cold boot Time: 300  AttemptTimes: 1  ErrorTimes: 0
+藤  Time: 876.1549999995623 cold boot Time: 398.6550000059651  AttemptTimes: 1  ErrorTimes: 0
+友  Time: 537.6900000061141 cold boot Time: 383.50500000669854  AttemptTimes: 1  ErrorTimes: 0
+香  Time: 636.3999999972293 cold boot Time: 532.0599999991828  AttemptTimes: 1  ErrorTimes: 0
+
+加  zhuyin diff change: -0.01  cbt: 300  akt: 191.68249999929685  ErrorTimes: 0  showedZhuyin: false  normal cdt: 369.61947456843126  normal time: 368.82902883702934
+藤  zhuyin diff change: -0.005886323374421748  cbt: 398.6550000059651  akt: 438.07749999978114  ErrorTimes: 0  showedZhuyin: false  normal cdt: 369.61947456843126  normal time: 368.82902883702934
+友  zhuyin diff change: -0.008204095334509854  cbt: 383.50500000669854  akt: 268.84500000305707  ErrorTimes: 0  showedZhuyin: false  normal cdt: 369.61947456843126  normal time: 368.82902883702934
+香  zhuyin diff change: -0.004185629267618387  cbt: 532.0599999991828  akt: 318.19999999861466  ErrorTimes: 0  showedZhuyin: false  normal cdt: 369.61947456843126  normal time: 368.82902883702934
+
+
+加  pinyin diff change: -0.5465163891517246  Time: 383.3649999985937 cold boot Time: 300  AttemptTimes: 1  ErrorTimes: 0  normal time: 368.82902883702934  average time: 539.8710162602616
+藤  pinyin diff change: 0.15379111158970854  Time: 876.1549999995623 cold boot Time: 398.6550000059651  AttemptTimes: 1  ErrorTimes: 0  normal time: 368.82902883702934  average time: 539.8710162602616
+友  pinyin diff change: -0.4603291336557888  Time: 537.6900000061141 cold boot Time: 383.50500000669854  AttemptTimes: 1  ErrorTimes: 0  normal time: 368.82902883702934  average time: 539.8710162602616
+香  pinyin diff change: -0.38524958990915714  Time: 636.3999999972293 cold boot Time: 532.0599999991828  AttemptTimes: 1  ErrorTimes: 0  normal time: 368.82902883702934  average time: 539.8710162602616
+
+
+false
+
+文  Time: 358.0599999992992 cold boot Time: 229  AttemptTimes: 1  ErrorTimes: 0
+过  Time: 511.2950000029523 cold boot Time: 395.19500000367407  AttemptTimes: 1  ErrorTimes: 0
+其  Time: 341.20999999775086 cold boot Time: 233.7949999991688  AttemptTimes: 1  ErrorTimes: 0
+意  Time: 259.7600000008242 cold boot Time: 143.25000000098953  AttemptTimes: 1  ErrorTimes: 0
+
+文  zhuyin diff change: -0.01  cbt: 229  akt: 179.0299999996496  ErrorTimes: 0  showedZhuyin: false  normal cdt: 326.5787822646695  normal time: 334.2221724192094
+过  zhuyin diff change: -0.007209867971986594  cbt: 395.19500000367407  akt: 255.64750000147615  ErrorTimes: 0  showedZhuyin: false  normal cdt: 326.5787822646695  normal time: 334.2221724192094
+其  zhuyin diff change: -0.01  cbt: 233.7949999991688  akt: 170.60499999887543  ErrorTimes: 0  showedZhuyin: false  normal cdt: 326.5787822646695  normal time: 334.2221724192094
+意  zhuyin diff change: -0.01  cbt: 143.25000000098953  akt: 129.8800000004121  ErrorTimes: 0  showedZhuyin: false  normal cdt: 326.5787822646695  normal time: 334.2221724192094
+
+
+文  pinyin diff change: -0.5407118837934308  Time: 358.0599999992992 cold boot Time: 229  AttemptTimes: 1  ErrorTimes: 0  normal time: 334.2221724192094  average time: 530.2708333333334
+过  pinyin diff change: -0.44243407697125375  Time: 511.2950000029523 cold boot Time: 395.19500000367407  AttemptTimes: 1  ErrorTimes: 0  normal time: 334.2221724192094  average time: 530.2708333333334
+其  pinyin diff change: -0.5498378674636877  Time: 341.20999999775086 cold boot Time: 233.7949999991688  AttemptTimes: 1  ErrorTimes: 0  normal time: 334.2221724192094  average time: 530.2708333333334
+意  pinyin diff change: -0.5909591470627116  Time: 259.7600000008242 cold boot Time: 143.25000000098953  AttemptTimes: 1  ErrorTimes: 0  normal time: 334.2221724192094  average time: 530.2708333333334
+
+
+false
+
+剖  Time: 560.1999999975669 cold boot Time: 440  AttemptTimes: 1  ErrorTimes: 0
+腹  Time: 481.86999999760883 cold boot Time: 321.03000000078464  AttemptTimes: 1  ErrorTimes: 0
+藏  Time: 544.9650000025867 cold boot Time: 429.3300000006566  AttemptTimes: 1  ErrorTimes: 0
+珠  Time: 516.9899999980698 cold boot Time: 348.92500000004657  AttemptTimes: 1  ErrorTimes: 0
+
+剖  zhuyin diff change: -0.006032836768978582  cbt: 440  akt: 280.09999999878346  ErrorTimes: 0  showedZhuyin: false  normal cdt: 345.879969043977  normal time: 313.15005300880136
+腹  zhuyin diff change: -0.009517098259233645  cbt: 321.03000000078464  akt: 240.93499999880441  ErrorTimes: 0  showedZhuyin: false  normal cdt: 345.879969043977  normal time: 313.15005300880136
+藏  zhuyin diff change: -0.006401507211168327  cbt: 429.3300000006566  akt: 272.4825000012934  ErrorTimes: 0  showedZhuyin: false  normal cdt: 345.879969043977  normal time: 313.15005300880136
+珠  zhuyin diff change: -0.008585495039936665  cbt: 348.92500000004657  akt: 258.4949999990349  ErrorTimes: 0  showedZhuyin: false  normal cdt: 345.879969043977  normal time: 313.15005300880136
+
+
+剖  pinyin diff change: -0.3624350848991428  Time: 560.1999999975669 cold boot Time: 440  AttemptTimes: 1  ErrorTimes: 0  normal time: 313.15005300880136  average time: 530.1002499999584
+腹  pinyin diff change: -0.44010855092400003  Time: 481.86999999760883 cold boot Time: 321.03000000078464  AttemptTimes: 1  ErrorTimes: 0  normal time: 313.15005300880136  average time: 530.1002499999584
+藏  pinyin diff change: -0.38018464575295263  Time: 544.9650000025867 cold boot Time: 429.3300000006566  AttemptTimes: 1  ErrorTimes: 0  normal time: 313.15005300880136  average time: 530.1002499999584
+珠  pinyin diff change: -0.408885800830454  Time: 516.9899999980698 cold boot Time: 348.92500000004657  AttemptTimes: 1  ErrorTimes: 0  normal time: 313.15005300880136  average time: 530.1002499999584
+
+
+false
+
+苁  Time: 425.9199999999255 cold boot Time: 222  AttemptTimes: 1  ErrorTimes: 0
+
+苁  zhuyin diff change: -0.01  cbt: 222  akt: 212.95999999996275  ErrorTimes: 0  showedZhuyin: false  normal cdt: 333.4919721395793  normal time: 308.1405503583594
+
+
+苁  pinyin diff change: -0.47788792968899174  Time: 425.9199999999255 cold boot Time: 222  AttemptTimes: 1  ErrorTimes: 0  normal time: 308.1405503583594  average time: 529.0687623761957
+
+
+false
+
+椄  Time: 424.180000002787 cold boot Time: 263  AttemptTimes: 1  ErrorTimes: 0
+
+椄  zhuyin diff change: -0.05577856336753933  cbt: 263  akt: 212.0900000013935  ErrorTimes: 0  showedZhuyin: true  normal cdt: 326.44277492562134  normal time: 303.3380228405111
+
+
+椄  pinyin diff change: -0.4742321129847051  Time: 424.180000002787 cold boot Time: 263  AttemptTimes: 1  ErrorTimes: 0  normal time: 303.3380228405111  average time: 528.0404411764563
+
+
+false
+
+洒  Time: 556.2650000004214 cold boot Time: 405  AttemptTimes: 1  ErrorTimes: 0
+
+洒  zhuyin diff change: -0.006636298479334708  cbt: 405  akt: 278.1325000002107  ErrorTimes: 0  showedZhuyin: false  normal cdt: 334.2984974330592  normal time: 300.81747055648106
+
+
+洒  pinyin diff change: -0.3373053902138814  Time: 556.2650000004214 cold boot Time: 405  AttemptTimes: 1  ErrorTimes: 0  normal time: 300.81747055648106  average time: 528.3144660194074
+
+
+false
+
+怕  Time: 1008.9100000007893 cold boot Time: 210  AttemptTimes: 3  ErrorTimes: 1
+死  Time: 596.4999999998254 cold boot Time: 360.34500000125263  AttemptTimes: 1  ErrorTimes: 0
+
+怕  zhuyin diff change: 0.059228672412436255  cbt: 210  akt: 168.1516666667982  ErrorTimes: 1  showedZhuyin: false  normal cdt: 325.7162829209032  normal time: 294.5907623257885
+死  zhuyin diff change: -0.007307894241491978  cbt: 360.34500000125263  akt: 298.2499999999127  ErrorTimes: 0  showedZhuyin: false  normal cdt: 325.7162829209032  normal time: 294.5907623257885
+
+
+怕  pinyin diff change: 0.36039266211076515  Time: 1008.9100000007893 cold boot Time: 210  AttemptTimes: 3  ErrorTimes: 1  normal time: 294.5907623257885  average time: 523.5682242990615
+死  pinyin diff change: -0.10900026708855458  Time: 596.4999999998254 cold boot Time: 360.34500000125263  AttemptTimes: 1  ErrorTimes: 0  normal time: 294.5907623257885  average time: 523.5682242990615
+
+
+true
+
+沾  Time: 488.93499999458436 cold boot Time: 354  AttemptTimes: 1  ErrorTimes: 0
+死  Time: 1103.6200000067474 cold boot Time: 1003.6800000066869  AttemptTimes: 1  ErrorTimes: 0
+碰  Time: 473.22999999375315 cold boot Time: 328.90999999432825  AttemptTimes: 1  ErrorTimes: 0
+亡  Time: 430.0550000043586 cold boot Time: 309.8050000044168  AttemptTimes: 1  ErrorTimes: 0
+
+沾  zhuyin diff change: -0.009043634542923354  cbt: 354  akt: 244.46749999729218  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.3895332248775  normal time: 295.16832539529634
+死  zhuyin diff change: 0.1608747477155717  cbt: 1003.6800000066869  akt: 551.8100000033737  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.3895332248775  normal time: 295.16832539529634
+碰  zhuyin diff change: -0.009721527326084995  cbt: 328.90999999432825  akt: 236.61499999687658  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.3895332248775  normal time: 295.16832539529634
+亡  zhuyin diff change: -0.01  cbt: 309.8050000044168  akt: 215.0275000021793  ErrorTimes: 0  showedZhuyin: false  normal cdt: 381.3895332248775  normal time: 295.16832539529634
+
+
+沾  pinyin diff change: -0.40722523625946927  Time: 488.93499999458436 cold boot Time: 354  AttemptTimes: 1  ErrorTimes: 0  normal time: 295.16832539529634  average time: 527.1859459459372
+死  pinyin diff change: 0.5613477787233156  Time: 1103.6200000067474 cold boot Time: 1003.6800000066869  AttemptTimes: 1  ErrorTimes: 0  normal time: 295.16832539529634  average time: 527.1859459459372
+碰  pinyin diff change: -0.42269522808559146  Time: 473.22999999375315 cold boot Time: 328.90999999432825  AttemptTimes: 1  ErrorTimes: 0  normal time: 295.16832539529634  average time: 527.1859459459372
+亡  pinyin diff change: -0.4605325763672708  Time: 430.0550000043586 cold boot Time: 309.8050000044168  AttemptTimes: 1  ErrorTimes: 0  normal time: 295.16832539529634  average time: 527.1859459459372
+
+
+false
+
+海  Time: 729.6150000001071 cold boot Time: 181  AttemptTimes: 2  ErrorTimes: 0
+漩  Time: 1951.7050000031013 cold boot Time: 655.7950000010896  AttemptTimes: 3  ErrorTimes: 0
+三  Time: 1031.0750000002445 cold boot Time: 199.1600000037579  AttemptTimes: 2  ErrorTimes: 0
+昧  Time: 940.2550000013434 cold boot Time: 276.91000000049826  AttemptTimes: 2  ErrorTimes: 1
+觉  Time: 648.814999993192 cold boot Time: 215.9899999969639  AttemptTimes: 2  ErrorTimes: 0
+澄  Time: 1920.81500000495 cold boot Time: 435.9550000008312  AttemptTimes: 2  ErrorTimes: 0
+圆  Time: 410.2299999940442 cold boot Time: 287.400000001071  AttemptTimes: 1  ErrorTimes: 0
+
+海  zhuyin diff change: -0.01  cbt: 181  akt: 182.40375000002678  ErrorTimes: 0  showedZhuyin: false  normal cdt: 349.4853190891891  normal time: 283.98313224340905
+漩  zhuyin diff change: -0.001843185985762239  cbt: 655.7950000010896  akt: 325.28416666718357  ErrorTimes: 0  showedZhuyin: false  normal cdt: 349.4853190891891  normal time: 283.98313224340905
+三  zhuyin diff change: -0.01  cbt: 199.1600000037579  akt: 257.7687500000611  ErrorTimes: 0  showedZhuyin: false  normal cdt: 349.4853190891891  normal time: 283.98313224340905
+昧  zhuyin diff change: 0.06093087436126175  cbt: 276.91000000049826  akt: 235.06375000033586  ErrorTimes: 1  showedZhuyin: false  normal cdt: 349.4853190891891  normal time: 283.98313224340905
+觉  zhuyin diff change: -0.06598683118192884  cbt: 215.9899999969639  akt: 162.203749998298  ErrorTimes: 0  showedZhuyin: true  normal cdt: 349.4853190891891  normal time: 283.98313224340905
+澄  zhuyin diff change: -0.0150172864806985  cbt: 435.9550000008312  akt: 480.2037500012375  ErrorTimes: 0  showedZhuyin: true  normal cdt: 349.4853190891891  normal time: 283.98313224340905
+圆  zhuyin diff change: -0.01  cbt: 287.400000001071  akt: 205.1149999970221  ErrorTimes: 0  showedZhuyin: false  normal cdt: 349.4853190891891  normal time: 283.98313224340905
+
+
+海  pinyin diff change: -0.4990380936884939  Time: 729.6150000001071 cold boot Time: 181  AttemptTimes: 2  ErrorTimes: 0  normal time: 283.98313224340905  average time: 527.7978723404256
+漩  pinyin diff change: 0.11137845722158218  Time: 1951.7050000031013 cold boot Time: 655.7950000010896  AttemptTimes: 3  ErrorTimes: 0  normal time: 283.98313224340905  average time: 527.7978723404256
+三  pinyin diff change: -0.3519125121759704  Time: 1031.0750000002445 cold boot Time: 199.1600000037579  AttemptTimes: 2  ErrorTimes: 0  normal time: 283.98313224340905  average time: 527.7978723404256
+昧  pinyin diff change: 1.2110480797986707  Time: 940.2550000013434 cold boot Time: 276.91000000049826  AttemptTimes: 2  ErrorTimes: 1  normal time: 283.98313224340905  average time: 527.7978723404256
+觉  pinyin diff change: -0.5274240794427332  Time: 648.814999993192 cold boot Time: 215.9899999969639  AttemptTimes: 2  ErrorTimes: 0  normal time: 283.98313224340905  average time: 527.7978723404256
+澄  pinyin diff change: 0.47870401335860363  Time: 1920.81500000495 cold boot Time: 435.9550000008312  AttemptTimes: 2  ErrorTimes: 0  normal time: 283.98313224340905  average time: 527.7978723404256
+圆  pinyin diff change: -0.4634962930688921  Time: 410.2299999940442 cold boot Time: 287.400000001071  AttemptTimes: 1  ErrorTimes: 0  normal time: 283.98313224340905  average time: 527.7978723404256
+
+
+true
+
+装  Time: 726.0650000029127 cold boot Time: 284  AttemptTimes: 1  ErrorTimes: 0
+修  Time: 603.799999995972 cold boot Time: 414.0949999989243  AttemptTimes: 1  ErrorTimes: 0
+
+装  zhuyin diff change: -0.008563328825187701  cbt: 284  akt: 363.03250000145636  ErrorTimes: 0  showedZhuyin: false  normal cdt: 350.0526084621356  normal time: 289.3320405679789
+修  zhuyin diff change: -0.00628332929682594  cbt: 414.0949999989243  akt: 301.899999997986  ErrorTimes: 0  showedZhuyin: false  normal cdt: 350.0526084621356  normal time: 289.3320405679789
+
+
+装  pinyin diff change: 0.21208917185952825  Time: 726.0650000029127 cold boot Time: 284  AttemptTimes: 1  ErrorTimes: 0  normal time: 289.3320405679789  average time: 530.6548437499883
+修  pinyin diff change: -0.02982784817828804  Time: 603.799999995972 cold boot Time: 414.0949999989243  AttemptTimes: 1  ErrorTimes: 0  normal time: 289.3320405679789  average time: 530.6548437499883
+
+
+false
+
+重  Time: 555.8349999998463 cold boot Time: 354  AttemptTimes: 1  ErrorTimes: 0
+阳  Time: 479.2649999995483 cold boot Time: 316.83500000287313  AttemptTimes: 1  ErrorTimes: 0
+落  Time: 1317.285000002419 cold boot Time: 548.2749999988009  AttemptTimes: 2  ErrorTimes: 0
+帽  Time: 444.3349999979255 cold boot Time: 292.97000000003027  AttemptTimes: 1  ErrorTimes: 0
+
+重  zhuyin diff change: -0.00821393778293063  cbt: 354  akt: 277.91749999992317  ErrorTimes: 0  showedZhuyin: false  normal cdt: 359.781501412135  normal time: 284.64512882033415
+阳  zhuyin diff change: -0.009675788168521856  cbt: 316.83500000287313  akt: 239.63249999977415  ErrorTimes: 0  showedZhuyin: false  normal cdt: 359.781501412135  normal time: 284.64512882033415
+落  zhuyin diff change: -0.0028115809606978166  cbt: 548.2749999988009  akt: 329.3212500006048  ErrorTimes: 0  showedZhuyin: false  normal cdt: 359.781501412135  normal time: 284.64512882033415
+帽  zhuyin diff change: -0.01  cbt: 292.97000000003027  akt: 222.16749999896274  ErrorTimes: 0  showedZhuyin: false  normal cdt: 359.781501412135  normal time: 284.64512882033415
+
+
+重  pinyin diff change: -0.27686862940146395  Time: 555.8349999998463 cold boot Time: 354  AttemptTimes: 1  ErrorTimes: 0  normal time: 284.64512882033415  average time: 532.0750990098874
+阳  pinyin diff change: -0.3988315577181707  Time: 479.2649999995483 cold boot Time: 316.83500000287313  AttemptTimes: 1  ErrorTimes: 0  normal time: 284.64512882033415  average time: 532.0750990098874
+落  pinyin diff change: 0.12347462835573603  Time: 1317.285000002419 cold boot Time: 548.2749999988009  AttemptTimes: 2  ErrorTimes: 0  normal time: 284.64512882033415  average time: 532.0750990098874
+帽  pinyin diff change: -0.4342504293853096  Time: 444.3349999979255 cold boot Time: 292.97000000003027  AttemptTimes: 1  ErrorTimes: 0  normal time: 284.64512882033415  average time: 532.0750990098874
+
+
+false
+
+岑  Time: 739.7999999984168 cold boot Time: 219  AttemptTimes: 1  ErrorTimes: 0
+参  Time: 558.6450000006589 cold boot Time: 444.1250000051223  AttemptTimes: 1  ErrorTimes: 0
+兄  Time: 503.1650000018999 cold boot Time: 310.7949999975972  AttemptTimes: 1  ErrorTimes: 0
+弟  Time: 950.6499999988591 cold boot Time: 428.4699999989243  AttemptTimes: 1  ErrorTimes: 0
+皆  Time: 327.66000000265194 cold boot Time: 184.61000000388594  AttemptTimes: 1  ErrorTimes: 0
+好  Time: 284.4399999958114 cold boot Time: 156.50499999901513  AttemptTimes: 1  ErrorTimes: 0
+奇  Time: 273.2299999988754 cold boot Time: 140.8750000045984  AttemptTimes: 1  ErrorTimes: 0
+
+岑  zhuyin diff change: -0.009605971271632185  cbt: 219  akt: 369.8999999992084  ErrorTimes: 0  showedZhuyin: false  normal cdt: 304.69915477852214  normal time: 272.93004904819867
+参  zhuyin diff change: -0.02347664958264963  cbt: 444.1250000051223  akt: 279.32250000032946  ErrorTimes: 0  showedZhuyin: true  normal cdt: 304.69915477852214  normal time: 272.93004904819867
+兄  zhuyin diff change: -0.008881598843870332  cbt: 310.7949999975972  akt: 251.58250000094995  ErrorTimes: 0  showedZhuyin: false  normal cdt: 304.69915477852214  normal time: 272.93004904819867
+弟  zhuyin diff change: -0.0020579665294651684  cbt: 428.4699999989243  akt: 475.32499999942956  ErrorTimes: 0  showedZhuyin: false  normal cdt: 304.69915477852214  normal time: 272.93004904819867
+皆  zhuyin diff change: -0.01  cbt: 184.61000000388594  akt: 163.83000000132597  ErrorTimes: 0  showedZhuyin: false  normal cdt: 304.69915477852214  normal time: 272.93004904819867
+好  zhuyin diff change: -0.01  cbt: 156.50499999901513  akt: 142.2199999979057  ErrorTimes: 0  showedZhuyin: false  normal cdt: 304.69915477852214  normal time: 272.93004904819867
+奇  zhuyin diff change: -0.01  cbt: 140.8750000045984  akt: 136.6149999994377  ErrorTimes: 0  showedZhuyin: false  normal cdt: 304.69915477852214  normal time: 272.93004904819867
+
+
+岑  pinyin diff change: 0.2866842386990772  Time: 739.7999999984168 cold boot Time: 219  AttemptTimes: 1  ErrorTimes: 0  normal time: 272.93004904819867  average time: 531.2701388888499
+参  pinyin diff change: -0.07504248034725532  Time: 558.6450000006589 cold boot Time: 444.1250000051223  AttemptTimes: 1  ErrorTimes: 0  normal time: 272.93004904819867  average time: 531.2701388888499
+兄  pinyin diff change: -0.3398357891755437  Time: 503.1650000018999 cold boot Time: 310.7949999975972  AttemptTimes: 1  ErrorTimes: 0  normal time: 272.93004904819867  average time: 531.2701388888499
+弟  pinyin diff change: 0.5031185096658768  Time: 950.6499999988591 cold boot Time: 428.4699999989243  AttemptTimes: 1  ErrorTimes: 0  normal time: 272.93004904819867  average time: 531.2701388888499
+皆  pinyin diff change: -0.5161235138212015  Time: 327.66000000265194 cold boot Time: 184.61000000388594  AttemptTimes: 1  ErrorTimes: 0  normal time: 272.93004904819867  average time: 531.2701388888499
+好  pinyin diff change: -0.5460180995650838  Time: 284.4399999958114 cold boot Time: 156.50499999901513  AttemptTimes: 1  ErrorTimes: 0  normal time: 272.93004904819867  average time: 531.2701388888499
+奇  pinyin diff change: -0.5533590590622293  Time: 273.2299999988754 cold boot Time: 140.8750000045984  AttemptTimes: 1  ErrorTimes: 0  normal time: 272.93004904819867  average time: 531.2701388888499
+
+
+false
+
+摸  Time: 352.00999999954365 cold boot Time: 228  AttemptTimes: 1  ErrorTimes: 0
+索  Time: 343.4849999966682 cold boot Time: 215.7450000004028  AttemptTimes: 1  ErrorTimes: 0
+
+摸  zhuyin diff change: -0.01  cbt: 228  akt: 176.00499999977183  ErrorTimes: 0  showedZhuyin: false  normal cdt: 288.9008153706432  normal time: 263.26673176590515
+索  zhuyin diff change: -0.01  cbt: 215.7450000004028  akt: 171.7424999983341  ErrorTimes: 0  showedZhuyin: false  normal cdt: 288.9008153706432  normal time: 263.26673176590515
+
+
+摸  pinyin diff change: -0.48786172734687777  Time: 352.00999999954365 cold boot Time: 228  AttemptTimes: 1  ErrorTimes: 0  normal time: 263.26673176590515  average time: 527.933363636291
+索  pinyin diff change: -0.4948085396006353  Time: 343.4849999966682 cold boot Time: 215.7450000004028  AttemptTimes: 1  ErrorTimes: 0  normal time: 263.26673176590515  average time: 527.933363636291
+
+
+false
+
+都  Time: 640.1399999959976 cold boot Time: 209  AttemptTimes: 2  ErrorTimes: 0
+怪  Time: 3138.824999998149 cold boot Time: 519.17500000156  AttemptTimes: 2  ErrorTimes: 1
+我  Time: 448.57500000548316 cold boot Time: 350.30500000325264  AttemptTimes: 1  ErrorTimes: 0
+
+都  zhuyin diff change: -0.06626101286567229  cbt: 209  akt: 160.0349999989994  ErrorTimes: 0  showedZhuyin: true  normal cdt: 309.2939444056646  normal time: 381.4820253140386
+怪  zhuyin diff change: 0.09068656902777406  cbt: 519.17500000156  akt: 784.7062499995372  ErrorTimes: 1  showedZhuyin: false  normal cdt: 309.2939444056646  normal time: 381.4820253140386
+我  zhuyin diff change: -0.008614395831211437  cbt: 350.30500000325264  akt: 224.28750000274158  ErrorTimes: 0  showedZhuyin: false  normal cdt: 309.2939444056646  normal time: 381.4820253140386
+
+
+都  pinyin diff change: -0.5809499228064509  Time: 640.1399999959976 cold boot Time: 209  AttemptTimes: 2  ErrorTimes: 0  normal time: 381.4820253140386  average time: 541.7409565216665
+怪  pinyin diff change: 1.9908303317220217  Time: 3138.824999998149 cold boot Time: 519.17500000156  AttemptTimes: 2  ErrorTimes: 1  normal time: 381.4820253140386  average time: 541.7409565216665
+我  pinyin diff change: -0.5209605627443176  Time: 448.57500000548316 cold boot Time: 350.30500000325264  AttemptTimes: 1  ErrorTimes: 0  normal time: 381.4820253140386  average time: 541.7409565216665
+
+
+true
+
+昆  Time: 425.9249999966705 cold boot Time: 282  AttemptTimes: 1  ErrorTimes: 0
+明  Time: 428.7199999989243 cold boot Time: 304.24000000033993  AttemptTimes: 1  ErrorTimes: 0
+水  Time: 474.0000000046566 cold boot Time: 357.8250000018161  AttemptTimes: 1  ErrorTimes: 0
+上  Time: 516.9150000001537 cold boot Time: 367.58499999996275  AttemptTimes: 1  ErrorTimes: 0
+映  Time: 1647.5599999976112 cold boot Time: 295.9549999941373  AttemptTimes: 2  ErrorTimes: 1
+牵  Time: 451.41500000318047 cold boot Time: 315.4450000001816  AttemptTimes: 1  ErrorTimes: 0
+牛  Time: 395.58499999839114 cold boot Time: 277.6199999934761  AttemptTimes: 1  ErrorTimes: 0
+
+昆  zhuyin diff change: -0.01  cbt: 282  akt: 212.96249999833526  ErrorTimes: 0  showedZhuyin: false  normal cdt: 311.2842885070273  normal time: 345.0784969678978
+明  zhuyin diff change: -0.009953573489770065  cbt: 304.24000000033993  akt: 214.35999999946216  ErrorTimes: 0  showedZhuyin: false  normal cdt: 311.2842885070273  normal time: 345.0784969678978
+水  zhuyin diff change: -0.008196895125650625  cbt: 357.8250000018161  akt: 237.0000000023283  ErrorTimes: 0  showedZhuyin: false  normal cdt: 311.2842885070273  normal time: 345.0784969678978
+上  zhuyin diff change: -0.03830827301160715  cbt: 367.58499999996275  akt: 258.45750000007683  ErrorTimes: 0  showedZhuyin: true  normal cdt: 311.2842885070273  normal time: 345.0784969678978
+映  zhuyin diff change: 0.0628476826246679  cbt: 295.9549999941373  akt: 411.8899999994028  ErrorTimes: 1  showedZhuyin: false  normal cdt: 311.2842885070273  normal time: 345.0784969678978
+牵  zhuyin diff change: -0.009504105383532491  cbt: 315.4450000001816  akt: 225.70750000159023  ErrorTimes: 0  showedZhuyin: false  normal cdt: 311.2842885070273  normal time: 345.0784969678978
+牛  zhuyin diff change: -0.01  cbt: 277.6199999934761  akt: 197.79249999919557  ErrorTimes: 0  showedZhuyin: false  normal cdt: 311.2842885070273  normal time: 345.0784969678978
+
+
+昆  pinyin diff change: -0.5093775234621034  Time: 425.9249999966705 cold boot Time: 282  AttemptTimes: 1  ErrorTimes: 0  normal time: 345.0784969678978  average time: 541.7913008129368
+明  pinyin diff change: -0.5077369026029366  Time: 428.7199999989243 cold boot Time: 304.24000000033993  AttemptTimes: 1  ErrorTimes: 0  normal time: 345.0784969678978  average time: 541.7913008129368
+水  pinyin diff change: -0.4798212573055829  Time: 474.0000000046566 cold boot Time: 357.8250000018161  AttemptTimes: 1  ErrorTimes: 0  normal time: 345.0784969678978  average time: 541.7913008129368
+上  pinyin diff change: -0.45050860264249337  Time: 516.9150000001537 cold boot Time: 367.58499999996275  AttemptTimes: 1  ErrorTimes: 0  normal time: 345.0784969678978  average time: 541.7913008129368
+映  pinyin diff change: 1.5116738729069772  Time: 1647.5599999976112 cold boot Time: 295.9549999941373  AttemptTimes: 2  ErrorTimes: 1  normal time: 345.0784969678978  average time: 541.7913008129368
+牵  pinyin diff change: -0.49407659823276967  Time: 451.41500000318047 cold boot Time: 315.4450000001816  AttemptTimes: 1  ErrorTimes: 0  normal time: 345.0784969678978  average time: 541.7913008129368
+牛  pinyin diff change: -0.5266568613421974  Time: 395.58499999839114 cold boot Time: 277.6199999934761  AttemptTimes: 1  ErrorTimes: 0  normal time: 345.0784969678978  average time: 541.7913008129368
+
+
+false
+
+心  Time: 607.3400000016554 cold boot Time: 521  AttemptTimes: 1  ErrorTimes: 0
+碎  Time: 407.2699999967008 cold boot Time: 281.66999999730615  AttemptTimes: 1  ErrorTimes: 0
+了  Time: 345.3550000055693 cold boot Time: 217.5050000011688  AttemptTimes: 1  ErrorTimes: 0
+
+心  zhuyin diff change: -0.00311868527782748  cbt: 521  akt: 303.6700000008277  ErrorTimes: 0  showedZhuyin: false  normal cdt: 316.2280463214974  normal time: 326.0027641623106
+碎  zhuyin diff change: -0.01  cbt: 281.66999999730615  akt: 203.6349999983504  ErrorTimes: 0  showedZhuyin: false  normal cdt: 316.2280463214974  normal time: 326.0027641623106
+了  zhuyin diff change: -0.01  cbt: 217.5050000011688  akt: 172.67750000278465  ErrorTimes: 0  showedZhuyin: false  normal cdt: 316.2280463214974  normal time: 326.0027641623106
+
+
+心  pinyin diff change: -0.3308671374754615  Time: 607.3400000016554 cold boot Time: 521  AttemptTimes: 1  ErrorTimes: 0  normal time: 326.0027641623106  average time: 536.8421052631579
+碎  pinyin diff change: -0.5063323591690136  Time: 407.2699999967008 cold boot Time: 281.66999999730615  AttemptTimes: 1  ErrorTimes: 0  normal time: 326.0027641623106  average time: 536.8421052631579
+了  pinyin diff change: -0.5428990042085466  Time: 345.3550000055693 cold boot Time: 217.5050000011688  AttemptTimes: 1  ErrorTimes: 0  normal time: 326.0027641623106  average time: 536.8421052631579
+
+
+false
+

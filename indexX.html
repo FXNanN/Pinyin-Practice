@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>拼音练习</title>
+  </head>
+  <script type="text/javascript" src="indexN.js"></script>
+  <script type="text/javascript" src="UI.js"></script>
+
+  <body
+    style="
+      height: 100%;
+      width: 100%;
+      background-color: #2d2d30;
+      margin: 0px;
+      overflow: hidden;
+    "
+  >
+    <div id="toolBar" style="position:absolute; width: 100%; height: 6.18%;"></div>
+    <div id="workspace">
+      <div id="floatingArea"style="width = 100%">
+        <div class="floatingBlock" id="floatingBlock1"style="position: absolute;"></div>
+        <div class="floatingBlock" id="floatingBlock2"style="position: absolute;"></div>
+        <div class="floatingBlock" id="floatingBlock3"style="position: absolute;"></div>
+        <div class="floatingBlock" id="floatingBlock0"style="position: absolute;"></div>
+        <div id="currentPinyin" style="display: flex; flex-direction:row; justify-content: space-around; align-items: baseline; position:absolute;"></div>
+      </div>
+      <div id="inputArea" spellcheck="false" style="border-bottom-style: dotted; position: absolute; min-width: 120px; white-space: nowrap; position: absolute;" contenteditable="true"></div>
+      <div id="statisticsArea">
+        <div id="speed"></div>
+        <div id="accuracyRate"></div>
+        <div id="wordCount"></div>
+      </div>
+    </div>
+  </body>
+  <style>
+    div {
+      font-family: "SF Pro SC", "HanHei SC", "SF Pro Text", "PingFang SC",
+        "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif,
+        "宋体";
+      /* display: flex; */
+      font-size: 96px;
+      color: #d4d4d4;
+      margin: 0px;
+      padding: 0px;
+      outline: none;
+    }
+    span {
+      margin: 0px;
+      padding: 0px;
+      color: #d4d4d4;
+      outline: none;
+    }
+
+    #floatingBlock {
+      display: flex;
+      justify-content: flex-start;
+      flex-direction: row;
+    }
+    #inputBlock {
+      display: inline;
+    }
+  </style>
+</html>

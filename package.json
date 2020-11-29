@@ -1,0 +1,38 @@
+{
+    "name": "pinyin-lianxi",
+    "version": "0.0.3",
+    "description": "拼音练习",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "pack": "electron-builder --dir",
+        "dist": "electron-builder",
+        "postinstall": "electron-builder install-app-deps",
+        "rebuild": "electron-rebuild -f -o pinyin"
+    },
+    "author": "XC",
+    "license": "GPL-3.0-or-later",
+    "devDependencies": {
+        "electron": "^10.1.0",
+        "electron-builder": "^22.8.0",
+        "electron-packager": "^15.0.0",
+        "electron-rebuild": "^2.0.0"
+    },
+    "dependencies": {
+        "iconv-jschardet": "^2.0.11",
+        "iconv-lite": "^0.6.2",
+        "node-gyp": "^7.1.0",
+        "pinyin": "^2.9.1"
+    },
+    "build": {
+        "appId": "xc.PinyinLianXi",
+        "win": {
+            "target": [
+                "nsis",
+                "zip"
+            ],
+            "icon": "icon.png"
+        },
+        "asar": false
+    }
+}

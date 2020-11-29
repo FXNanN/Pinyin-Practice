@@ -1,0 +1,19 @@
+{
+    "scheme": "weiruan",
+    "howManyErrTimesShowZhuyin": 1,
+    "howManyErrTimesShowAnswer": 3,
+    "colorMode": "dark",
+    "autoNext": "autoNext_allCorrect",
+    "autoClear": "autoClear",
+    "autoZhuyin": 0.3,
+    "showHeteronym": "heteronym",
+    "phraseBanks_using": [
+        "单字库",
+        "双字库",
+        "三字库",
+        "四字库",
+        "短语库"
+    ],
+    "speedShowingUnit": "wordPerHour",
+    "showStatisticsArea": "show"
+}
