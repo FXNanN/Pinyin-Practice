@@ -1,0 +1,10 @@
+{
+    "totalSolvingTime": 51000,
+    "totalErrorTimes": 5.010952528143409,
+    "totalAttemptTimes": 95,
+    "totalWordCount": 5464,
+    "averageSolvingTime": 536.8421052631579,
+    "normalSolvingTime": 326.0027641623106,
+    "standardSolvingTime": 700,
+    "normalColdBootTime": 316.2280463214974
+}

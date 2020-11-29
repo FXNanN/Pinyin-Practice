@@ -1,0 +1,25 @@
+{
+  "scheme": {
+    "quanpin": "全拼",
+    "weiruan": "微软双拼"
+  },
+  "autoNextMode": {
+    "autoNext_allCorrect": "全对后自动切换",
+    "autoNext_onceFinish": "完成后自动切换",
+    "manualNext": "手动切换"
+  },
+  "autoClear": {
+    "autoClear": "自动清空有错的拼音",
+    "manualClear": "手动清空"
+  },
+  "autoZhuyin": {
+    "allZhuyin": "全部注音",
+    "higherThan0.2": "注音较难的字",
+    "higherThan0.6": "注音生僻字",
+    "manualZhuyin": "不自动注音"
+  },
+  "showHeteronym": {
+    "heteronym": "标识多音字",
+    "none": "不标识多音字"
+  }
+}

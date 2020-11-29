@@ -1,0 +1,2047 @@
+[
+    {
+        "sheng": "",
+        "yun": "a",
+        "difficulty": 15.170377102227441
+    },
+    {
+        "sheng": "",
+        "yun": "ai",
+        "difficulty": 9.872548239947905
+    },
+    {
+        "sheng": "",
+        "yun": "an",
+        "difficulty": 11.736047986686991
+    },
+    {
+        "sheng": "",
+        "yun": "ang",
+        "difficulty": 11.596211716079317
+    },
+    {
+        "sheng": "",
+        "yun": "ao",
+        "difficulty": 12.034526034473462
+    },
+    {
+        "sheng": "",
+        "yun": "e",
+        "difficulty": 10.592151571070236
+    },
+    {
+        "sheng": "",
+        "yun": "ei",
+        "difficulty": 18.9302298672591
+    },
+    {
+        "sheng": "",
+        "yun": "en",
+        "difficulty": 12.304687928636085
+    },
+    {
+        "sheng": "",
+        "yun": "eng",
+        "difficulty": 14.702820376478199
+    },
+    {
+        "sheng": "",
+        "yun": "er",
+        "difficulty": 17.04842480364022
+    },
+    {
+        "sheng": "",
+        "yun": "o",
+        "difficulty": 16.802698935651385
+    },
+    {
+        "sheng": "",
+        "yun": "ou",
+        "difficulty": 12.425272485261168
+    },
+    {
+        "sheng": "b",
+        "yun": "a",
+        "difficulty": 7.390043033919971
+    },
+    {
+        "sheng": "b",
+        "yun": "ai",
+        "difficulty": 2.2859086228365415
+    },
+    {
+        "sheng": "b",
+        "yun": "an",
+        "difficulty": 3.955713918379523
+    },
+    {
+        "sheng": "b",
+        "yun": "ang",
+        "difficulty": 4.518266751681551
+    },
+    {
+        "sheng": "b",
+        "yun": "ao",
+        "difficulty": 4.2541919661659975
+    },
+    {
+        "sheng": "b",
+        "yun": "ei",
+        "difficulty": 11.149895798951635
+    },
+    {
+        "sheng": "b",
+        "yun": "en",
+        "difficulty": 4.524353860328619
+    },
+    {
+        "sheng": "b",
+        "yun": "eng",
+        "difficulty": 6.922486308170732
+    },
+    {
+        "sheng": "b",
+        "yun": "i",
+        "difficulty": 1.5855735177161554
+    },
+    {
+        "sheng": "b",
+        "yun": "ian",
+        "difficulty": 5.336946590970674
+    },
+    {
+        "sheng": "b",
+        "yun": "iao",
+        "difficulty": 7.136132938888524
+    },
+    {
+        "sheng": "b",
+        "yun": "ie",
+        "difficulty": 5.254150178419346
+    },
+    {
+        "sheng": "b",
+        "yun": "in",
+        "difficulty": 8.111430607717887
+    },
+    {
+        "sheng": "b",
+        "yun": "ing",
+        "difficulty": 5.47272585180232
+    },
+    {
+        "sheng": "b",
+        "yun": "o",
+        "difficulty": 9.543912851625777
+    },
+    {
+        "sheng": "b",
+        "yun": "u",
+        "difficulty": 3.8982668252160932
+    },
+    {
+        "sheng": "c",
+        "yun": "a",
+        "difficulty": 15.393868525399482
+    },
+    {
+        "sheng": "c",
+        "yun": "ai",
+        "difficulty": 10.09603966311994
+    },
+    {
+        "sheng": "c",
+        "yun": "an",
+        "difficulty": 11.959539409859028
+    },
+    {
+        "sheng": "c",
+        "yun": "ang",
+        "difficulty": 11.819703139251354
+    },
+    {
+        "sheng": "c",
+        "yun": "ao",
+        "difficulty": 12.419214452158238
+    },
+    {
+        "sheng": "c",
+        "yun": "e",
+        "difficulty": 10.815642994242275
+    },
+    {
+        "sheng": "c",
+        "yun": "en",
+        "difficulty": 12.528179351808129
+    },
+    {
+        "sheng": "c",
+        "yun": "eng",
+        "difficulty": 14.926311799650232
+    },
+    {
+        "sheng": "c",
+        "yun": "i",
+        "difficulty": 2.228475716557315
+    },
+    {
+        "sheng": "c",
+        "yun": "ong",
+        "difficulty": 13.833005095235158
+    },
+    {
+        "sheng": "c",
+        "yun": "ou",
+        "difficulty": 12.940859165085685
+    },
+    {
+        "sheng": "c",
+        "yun": "u",
+        "difficulty": 11.767434326359949
+    },
+    {
+        "sheng": "c",
+        "yun": "uan",
+        "difficulty": 13.742354648086893
+    },
+    {
+        "sheng": "c",
+        "yun": "ui",
+        "difficulty": 12.11722147102417
+    },
+    {
+        "sheng": "c",
+        "yun": "un",
+        "difficulty": 16.62095897343994
+    },
+    {
+        "sheng": "c",
+        "yun": "uo",
+        "difficulty": 15.543333887084673
+    },
+    {
+        "sheng": "d",
+        "yun": "a",
+        "difficulty": 12.702128974568089
+    },
+    {
+        "sheng": "d",
+        "yun": "ai",
+        "difficulty": 7.404300112288561
+    },
+    {
+        "sheng": "d",
+        "yun": "an",
+        "difficulty": 9.267799859027647
+    },
+    {
+        "sheng": "d",
+        "yun": "ang",
+        "difficulty": 9.636658241133562
+    },
+    {
+        "sheng": "d",
+        "yun": "ao",
+        "difficulty": 9.566277906814117
+    },
+    {
+        "sheng": "d",
+        "yun": "e",
+        "difficulty": 8.123903443410887
+    },
+    {
+        "sheng": "d",
+        "yun": "ei",
+        "difficulty": 16.46198173959975
+    },
+    {
+        "sheng": "d",
+        "yun": "en",
+        "difficulty": 9.83643980097674
+    },
+    {
+        "sheng": "d",
+        "yun": "eng",
+        "difficulty": 12.23457224881885
+    },
+    {
+        "sheng": "d",
+        "yun": "i",
+        "difficulty": 1.8894295912527768
+    },
+    {
+        "sheng": "d",
+        "yun": "ia",
+        "difficulty": 12.281529098018105
+    },
+    {
+        "sheng": "d",
+        "yun": "ian",
+        "difficulty": 10.686379098238719
+    },
+    {
+        "sheng": "d",
+        "yun": "iao",
+        "difficulty": 12.394672738261521
+    },
+    {
+        "sheng": "d",
+        "yun": "ie",
+        "difficulty": 10.566236119067469
+    },
+    {
+        "sheng": "d",
+        "yun": "ing",
+        "difficulty": 10.784811792450446
+    },
+    {
+        "sheng": "d",
+        "yun": "iu",
+        "difficulty": 12.772944606217312
+    },
+    {
+        "sheng": "d",
+        "yun": "ong",
+        "difficulty": 11.141265544403776
+    },
+    {
+        "sheng": "d",
+        "yun": "ou",
+        "difficulty": 9.957024357601817
+    },
+    {
+        "sheng": "d",
+        "yun": "u",
+        "difficulty": 9.210352765864204
+    },
+    {
+        "sheng": "d",
+        "yun": "uan",
+        "difficulty": 11.050615097255504
+    },
+    {
+        "sheng": "d",
+        "yun": "ui",
+        "difficulty": 9.730949408332185
+    },
+    {
+        "sheng": "d",
+        "yun": "un",
+        "difficulty": 16.759277414167318
+    },
+    {
+        "sheng": "d",
+        "yun": "uo",
+        "difficulty": 14.10258557800598
+    },
+    {
+        "sheng": "f",
+        "yun": "a",
+        "difficulty": 14.106977229966006
+    },
+    {
+        "sheng": "f",
+        "yun": "an",
+        "difficulty": 9.843321246811506
+    },
+    {
+        "sheng": "f",
+        "yun": "ang",
+        "difficulty": 9.739727078441202
+    },
+    {
+        "sheng": "f",
+        "yun": "ei",
+        "difficulty": 17.36206094960201
+    },
+    {
+        "sheng": "f",
+        "yun": "en",
+        "difficulty": 10.837766899296883
+    },
+    {
+        "sheng": "f",
+        "yun": "eng",
+        "difficulty": 13.263263490111493
+    },
+    {
+        "sheng": "f",
+        "yun": "o",
+        "difficulty": 14.62127055388457
+    },
+    {
+        "sheng": "f",
+        "yun": "ou",
+        "difficulty": 12.551777594455634
+    },
+    {
+        "sheng": "f",
+        "yun": "u",
+        "difficulty": 8.374098778500592
+    },
+    {
+        "sheng": "g",
+        "yun": "a",
+        "difficulty": 20
+    },
+    {
+        "sheng": "g",
+        "yun": "ai",
+        "difficulty": 15.833336817322731
+    },
+    {
+        "sheng": "g",
+        "yun": "an",
+        "difficulty": 17.92876538410887
+    },
+    {
+        "sheng": "g",
+        "yun": "ang",
+        "difficulty": 17.55700029345414
+    },
+    {
+        "sheng": "g",
+        "yun": "ao",
+        "difficulty": 18.50400926456188
+    },
+    {
+        "sheng": "g",
+        "yun": "e",
+        "difficulty": 16.55294014844506
+    },
+    {
+        "sheng": "g",
+        "yun": "ei",
+        "difficulty": 20
+    },
+    {
+        "sheng": "g",
+        "yun": "en",
+        "difficulty": 18.7741711587245
+    },
+    {
+        "sheng": "g",
+        "yun": "eng",
+        "difficulty": 20
+    },
+    {
+        "sheng": "g",
+        "yun": "ong",
+        "difficulty": 19.57030224943795
+    },
+    {
+        "sheng": "g",
+        "yun": "ou",
+        "difficulty": 18.894755715349582
+    },
+    {
+        "sheng": "g",
+        "yun": "u",
+        "difficulty": 17.59526372564845
+    },
+    {
+        "sheng": "g",
+        "yun": "ua",
+        "difficulty": 20
+    },
+    {
+        "sheng": "g",
+        "yun": "uai",
+        "difficulty": 20
+    },
+    {
+        "sheng": "g",
+        "yun": "uan",
+        "difficulty": 19.47965180228968
+    },
+    {
+        "sheng": "g",
+        "yun": "uang",
+        "difficulty": 20
+    },
+    {
+        "sheng": "g",
+        "yun": "ui",
+        "difficulty": 18.337103026929963
+    },
+    {
+        "sheng": "g",
+        "yun": "un",
+        "difficulty": 19.490622476537897
+    },
+    {
+        "sheng": "g",
+        "yun": "uo",
+        "difficulty": 20
+    },
+    {
+        "sheng": "h",
+        "yun": "a",
+        "difficulty": 7.589352276791688
+    },
+    {
+        "sheng": "h",
+        "yun": "ai",
+        "difficulty": 2.2915234145121506
+    },
+    {
+        "sheng": "h",
+        "yun": "an",
+        "difficulty": 4.155023161251247
+    },
+    {
+        "sheng": "h",
+        "yun": "ang",
+        "difficulty": 4.483823027015617
+    },
+    {
+        "sheng": "h",
+        "yun": "ao",
+        "difficulty": 4.6146982035504465
+    },
+    {
+        "sheng": "h",
+        "yun": "e",
+        "difficulty": 3.011126745634488
+    },
+    {
+        "sheng": "h",
+        "yun": "ei",
+        "difficulty": 11.349205041823351
+    },
+    {
+        "sheng": "h",
+        "yun": "en",
+        "difficulty": 4.723663103200334
+    },
+    {
+        "sheng": "h",
+        "yun": "eng",
+        "difficulty": 7.121795551042448
+    },
+    {
+        "sheng": "h",
+        "yun": "ong",
+        "difficulty": 6.0284888466273685
+    },
+    {
+        "sheng": "h",
+        "yun": "ou",
+        "difficulty": 5.136342916477889
+    },
+    {
+        "sheng": "h",
+        "yun": "u",
+        "difficulty": 4.664266326431045
+    },
+    {
+        "sheng": "h",
+        "yun": "ua",
+        "difficulty": 8.317481755359172
+    },
+    {
+        "sheng": "h",
+        "yun": "uai",
+        "difficulty": 12.018470667255178
+    },
+    {
+        "sheng": "h",
+        "yun": "uan",
+        "difficulty": 5.937838399479107
+    },
+    {
+        "sheng": "h",
+        "yun": "uang",
+        "difficulty": 8.737023364416654
+    },
+    {
+        "sheng": "h",
+        "yun": "ui",
+        "difficulty": 4.618172710555777
+    },
+    {
+        "sheng": "h",
+        "yun": "un",
+        "difficulty": 11.646500716390907
+    },
+    {
+        "sheng": "h",
+        "yun": "uo",
+        "difficulty": 8.989808880229576
+    },
+    {
+        "sheng": "j",
+        "yun": "i",
+        "difficulty": 0.542025924452221
+    },
+    {
+        "sheng": "j",
+        "yun": "ia",
+        "difficulty": 9.3066233592119
+    },
+    {
+        "sheng": "j",
+        "yun": "ian",
+        "difficulty": 6.69770848199701
+    },
+    {
+        "sheng": "j",
+        "yun": "iang",
+        "difficulty": 9.95119617633179
+    },
+    {
+        "sheng": "j",
+        "yun": "iao",
+        "difficulty": 9.238704009875567
+    },
+    {
+        "sheng": "j",
+        "yun": "ie",
+        "difficulty": 7.591330380261265
+    },
+    {
+        "sheng": "j",
+        "yun": "in",
+        "difficulty": 9.47219249874421
+    },
+    {
+        "sheng": "j",
+        "yun": "ing",
+        "difficulty": 7.809906053644249
+    },
+    {
+        "sheng": "j",
+        "yun": "iong",
+        "difficulty": 12.711546328651869
+    },
+    {
+        "sheng": "j",
+        "yun": "iu",
+        "difficulty": 9.798038867411105
+    },
+    {
+        "sheng": "j",
+        "yun": "u",
+        "difficulty": 6.104716013484925
+    },
+    {
+        "sheng": "j",
+        "yun": "uan",
+        "difficulty": 8.075709358449304
+    },
+    {
+        "sheng": "j",
+        "yun": "ue",
+        "difficulty": 13.123474571416242
+    },
+    {
+        "sheng": "j",
+        "yun": "un",
+        "difficulty": 13.601714725030027
+    },
+    {
+        "sheng": "k",
+        "yun": "a",
+        "difficulty": 13.928035300161355
+    },
+    {
+        "sheng": "k",
+        "yun": "ai",
+        "difficulty": 8.630206437881823
+    },
+    {
+        "sheng": "k",
+        "yun": "an",
+        "difficulty": 10.543331322212927
+    },
+    {
+        "sheng": "k",
+        "yun": "ang",
+        "difficulty": 10.35386991401323
+    },
+    {
+        "sheng": "k",
+        "yun": "ao",
+        "difficulty": 11.189151314539627
+    },
+    {
+        "sheng": "k",
+        "yun": "e",
+        "difficulty": 9.349809769004159
+    },
+    {
+        "sheng": "k",
+        "yun": "ei",
+        "difficulty": 17.68788806519301
+    },
+    {
+        "sheng": "k",
+        "yun": "en",
+        "difficulty": 11.06234612657
+    },
+    {
+        "sheng": "k",
+        "yun": "eng",
+        "difficulty": 13.46047857441211
+    },
+    {
+        "sheng": "k",
+        "yun": "ong",
+        "difficulty": 12.36717186999704
+    },
+    {
+        "sheng": "k",
+        "yun": "ou",
+        "difficulty": 11.919204443715387
+    },
+    {
+        "sheng": "k",
+        "yun": "u",
+        "difficulty": 11.432815423926403
+    },
+    {
+        "sheng": "k",
+        "yun": "ua",
+        "difficulty": 14.656164778728838
+    },
+    {
+        "sheng": "k",
+        "yun": "uai",
+        "difficulty": 17.88851755425279
+    },
+    {
+        "sheng": "k",
+        "yun": "uan",
+        "difficulty": 12.276521422848777
+    },
+    {
+        "sheng": "k",
+        "yun": "uang",
+        "difficulty": 15.07570638778632
+    },
+    {
+        "sheng": "k",
+        "yun": "ui",
+        "difficulty": 10.65138824578605
+    },
+    {
+        "sheng": "k",
+        "yun": "un",
+        "difficulty": 15.822110864070961
+    },
+    {
+        "sheng": "k",
+        "yun": "uo",
+        "difficulty": 14.895458979329621
+    },
+    {
+        "sheng": "l",
+        "yun": "a",
+        "difficulty": 9.149292298036336
+    },
+    {
+        "sheng": "l",
+        "yun": "ai",
+        "difficulty": 3.962574565534018
+    },
+    {
+        "sheng": "l",
+        "yun": "an",
+        "difficulty": 5.714963182495892
+    },
+    {
+        "sheng": "l",
+        "yun": "ang",
+        "difficulty": 6.194932694379021
+    },
+    {
+        "sheng": "l",
+        "yun": "ao",
+        "difficulty": 6.013441230282364
+    },
+    {
+        "sheng": "l",
+        "yun": "e",
+        "difficulty": 4.682177896656354
+    },
+    {
+        "sheng": "l",
+        "yun": "ei",
+        "difficulty": 12.909145063068003
+    },
+    {
+        "sheng": "l",
+        "yun": "eng",
+        "difficulty": 8.681735572287101
+    },
+    {
+        "sheng": "l",
+        "yun": "i",
+        "difficulty": 1.2896237702190811
+    },
+    {
+        "sheng": "l",
+        "yun": "ia",
+        "difficulty": 8.728692421486357
+    },
+    {
+        "sheng": "l",
+        "yun": "ian",
+        "difficulty": 7.133542421706968
+    },
+    {
+        "sheng": "l",
+        "yun": "iang",
+        "difficulty": 10.062761338187245
+    },
+    {
+        "sheng": "l",
+        "yun": "iao",
+        "difficulty": 8.895382203004893
+    },
+    {
+        "sheng": "l",
+        "yun": "ie",
+        "difficulty": 7.0133994425357145
+    },
+    {
+        "sheng": "l",
+        "yun": "in",
+        "difficulty": 9.821557564706808
+    },
+    {
+        "sheng": "l",
+        "yun": "ing",
+        "difficulty": 7.231975115918691
+    },
+    {
+        "sheng": "l",
+        "yun": "iu",
+        "difficulty": 9.220107929685554
+    },
+    {
+        "sheng": "l",
+        "yun": "o",
+        "difficulty": 11.414273245519363
+    },
+    {
+        "sheng": "l",
+        "yun": "ong",
+        "difficulty": 7.6995399976492305
+    },
+    {
+        "sheng": "l",
+        "yun": "ou",
+        "difficulty": 6.404187681070062
+    },
+    {
+        "sheng": "l",
+        "yun": "u",
+        "difficulty": 5.657516089332457
+    },
+    {
+        "sheng": "l",
+        "yun": "uan",
+        "difficulty": 7.497778420723755
+    },
+    {
+        "sheng": "l",
+        "yun": "un",
+        "difficulty": 12.844147651369326
+    },
+    {
+        "sheng": "l",
+        "yun": "uo",
+        "difficulty": 10.401271458861343
+    },
+    {
+        "sheng": "l",
+        "yun": "v",
+        "difficulty": 11.233343566605368
+    },
+    {
+        "sheng": "l",
+        "yun": "ve",
+        "difficulty": 9.994258727282281
+    },
+    {
+        "sheng": "m",
+        "yun": "a",
+        "difficulty": 17.406566934176066
+    },
+    {
+        "sheng": "m",
+        "yun": "ai",
+        "difficulty": 12.108738071896518
+    },
+    {
+        "sheng": "m",
+        "yun": "an",
+        "difficulty": 13.972237818635604
+    },
+    {
+        "sheng": "m",
+        "yun": "ang",
+        "difficulty": 14.262267622153614
+    },
+    {
+        "sheng": "m",
+        "yun": "ao",
+        "difficulty": 14.27071586642208
+    },
+    {
+        "sheng": "m",
+        "yun": "e",
+        "difficulty": 12.828341403018847
+    },
+    {
+        "sheng": "m",
+        "yun": "ei",
+        "difficulty": 18.570150940664877
+    },
+    {
+        "sheng": "m",
+        "yun": "en",
+        "difficulty": 14.540877760584703
+    },
+    {
+        "sheng": "m",
+        "yun": "eng",
+        "difficulty": 16.939010208426808
+    },
+    {
+        "sheng": "m",
+        "yun": "i",
+        "difficulty": 3.3931421079114976
+    },
+    {
+        "sheng": "m",
+        "yun": "ian",
+        "difficulty": 14.54211219600176
+    },
+    {
+        "sheng": "m",
+        "yun": "iao",
+        "difficulty": 17.099110697869488
+    },
+    {
+        "sheng": "m",
+        "yun": "ie",
+        "difficulty": 15.270674078675427
+    },
+    {
+        "sheng": "m",
+        "yun": "in",
+        "difficulty": 17.316596212748976
+    },
+    {
+        "sheng": "m",
+        "yun": "ing",
+        "difficulty": 15.489249752058404
+    },
+    {
+        "sheng": "m",
+        "yun": "iu",
+        "difficulty": 17.47738256582526
+    },
+    {
+        "sheng": "m",
+        "yun": "o",
+        "difficulty": 17.56132865057368
+    },
+    {
+        "sheng": "m",
+        "yun": "ou",
+        "difficulty": 14.661462317209775
+    },
+    {
+        "sheng": "m",
+        "yun": "u",
+        "difficulty": 13.74325602407268
+    },
+    {
+        "sheng": "n",
+        "yun": "a",
+        "difficulty": 16.273340163526115
+    },
+    {
+        "sheng": "n",
+        "yun": "ai",
+        "difficulty": 10.975511301246582
+    },
+    {
+        "sheng": "n",
+        "yun": "an",
+        "difficulty": 12.83901104798566
+    },
+    {
+        "sheng": "n",
+        "yun": "ang",
+        "difficulty": 13.091378172952865
+    },
+    {
+        "sheng": "n",
+        "yun": "ao",
+        "difficulty": 13.29868609028487
+    },
+    {
+        "sheng": "n",
+        "yun": "e",
+        "difficulty": 11.695114632368908
+    },
+    {
+        "sheng": "n",
+        "yun": "ei",
+        "difficulty": 19.150152239837183
+    },
+    {
+        "sheng": "n",
+        "yun": "en",
+        "difficulty": 13.407650989934757
+    },
+    {
+        "sheng": "n",
+        "yun": "eng",
+        "difficulty": 15.805783437776864
+    },
+    {
+        "sheng": "n",
+        "yun": "i",
+        "difficulty": 2.2599153372615586
+    },
+    {
+        "sheng": "n",
+        "yun": "ian",
+        "difficulty": 13.491293557832064
+    },
+    {
+        "sheng": "n",
+        "yun": "iang",
+        "difficulty": 16.26204191817922
+    },
+    {
+        "sheng": "n",
+        "yun": "iao",
+        "difficulty": 15.965883927219544
+    },
+    {
+        "sheng": "n",
+        "yun": "ie",
+        "difficulty": 14.137447308025484
+    },
+    {
+        "sheng": "n",
+        "yun": "in",
+        "difficulty": 16.265777574579268
+    },
+    {
+        "sheng": "n",
+        "yun": "ing",
+        "difficulty": 14.35602298140847
+    },
+    {
+        "sheng": "n",
+        "yun": "iu",
+        "difficulty": 15.485597782374604
+    },
+    {
+        "sheng": "n",
+        "yun": "ong",
+        "difficulty": 14.712476733361793
+    },
+    {
+        "sheng": "n",
+        "yun": "ou",
+        "difficulty": 13.81921631914104
+    },
+    {
+        "sheng": "n",
+        "yun": "u",
+        "difficulty": 12.684128422048799
+    },
+    {
+        "sheng": "n",
+        "yun": "uan",
+        "difficulty": 14.621826286213524
+    },
+    {
+        "sheng": "n",
+        "yun": "uo",
+        "difficulty": 15.892974989729968
+    },
+    {
+        "sheng": "n",
+        "yun": "v",
+        "difficulty": 17.240115570981192
+    },
+    {
+        "sheng": "n",
+        "yun": "ve",
+        "difficulty": 16.536790436499384
+    },
+    {
+        "sheng": "p",
+        "yun": "a",
+        "difficulty": 15.40759021542918
+    },
+    {
+        "sheng": "p",
+        "yun": "ai",
+        "difficulty": 10.10976135314965
+    },
+    {
+        "sheng": "p",
+        "yun": "an",
+        "difficulty": 11.973261099888738
+    },
+    {
+        "sheng": "p",
+        "yun": "ang",
+        "difficulty": 12.342119481994654
+    },
+    {
+        "sheng": "p",
+        "yun": "ao",
+        "difficulty": 12.432936142187943
+    },
+    {
+        "sheng": "p",
+        "yun": "ei",
+        "difficulty": 19.16744298046084
+    },
+    {
+        "sheng": "p",
+        "yun": "en",
+        "difficulty": 12.541901041837829
+    },
+    {
+        "sheng": "p",
+        "yun": "eng",
+        "difficulty": 14.940033489679937
+    },
+    {
+        "sheng": "p",
+        "yun": "i",
+        "difficulty": 2.315905829998712
+    },
+    {
+        "sheng": "p",
+        "yun": "ian",
+        "difficulty": 13.391840339099813
+    },
+    {
+        "sheng": "p",
+        "yun": "iao",
+        "difficulty": 15.100133979122615
+    },
+    {
+        "sheng": "p",
+        "yun": "ie",
+        "difficulty": 13.271697359928556
+    },
+    {
+        "sheng": "p",
+        "yun": "in",
+        "difficulty": 15.968744352322439
+    },
+    {
+        "sheng": "p",
+        "yun": "ing",
+        "difficulty": 13.490273033311539
+    },
+    {
+        "sheng": "p",
+        "yun": "o",
+        "difficulty": 16.53226896518086
+    },
+    {
+        "sheng": "p",
+        "yun": "ou",
+        "difficulty": 12.954580855115383
+    },
+    {
+        "sheng": "p",
+        "yun": "u",
+        "difficulty": 12.30161471892578
+    },
+    {
+        "sheng": "q",
+        "yun": "i",
+        "difficulty": 1.4998039692474872
+    },
+    {
+        "sheng": "q",
+        "yun": "ia",
+        "difficulty": 13.832910041862219
+    },
+    {
+        "sheng": "q",
+        "yun": "ian",
+        "difficulty": 11.408841908666913
+    },
+    {
+        "sheng": "q",
+        "yun": "iang",
+        "difficulty": 14.338088453736807
+    },
+    {
+        "sheng": "q",
+        "yun": "iao",
+        "difficulty": 13.093770808077162
+    },
+    {
+        "sheng": "q",
+        "yun": "ie",
+        "difficulty": 11.79460519498516
+    },
+    {
+        "sheng": "q",
+        "yun": "in",
+        "difficulty": 13.16743010527223
+    },
+    {
+        "sheng": "q",
+        "yun": "ing",
+        "difficulty": 13.8841979767537
+    },
+    {
+        "sheng": "q",
+        "yun": "iong",
+        "difficulty": 14.951001207842989
+    },
+    {
+        "sheng": "q",
+        "yun": "iu",
+        "difficulty": 14.676681460908382
+    },
+    {
+        "sheng": "q",
+        "yun": "u",
+        "difficulty": 10.327429233863583
+    },
+    {
+        "sheng": "q",
+        "yun": "uan",
+        "difficulty": 13.224406960371972
+    },
+    {
+        "sheng": "q",
+        "yun": "ue",
+        "difficulty": 17.23947713171155
+    },
+    {
+        "sheng": "q",
+        "yun": "un",
+        "difficulty": 15.918364792675554
+    },
+    {
+        "sheng": "r",
+        "yun": "an",
+        "difficulty": 10.59759625165318
+    },
+    {
+        "sheng": "r",
+        "yun": "ang",
+        "difficulty": 10.808033321033836
+    },
+    {
+        "sheng": "r",
+        "yun": "ao",
+        "difficulty": 11.081428703952628
+    },
+    {
+        "sheng": "r",
+        "yun": "e",
+        "difficulty": 9.43467130154296
+    },
+    {
+        "sheng": "r",
+        "yun": "en",
+        "difficulty": 11.147207659108798
+    },
+    {
+        "sheng": "r",
+        "yun": "eng",
+        "difficulty": 13.545340106950919
+    },
+    {
+        "sheng": "r",
+        "yun": "i",
+        "difficulty": 1.6939744163648651
+    },
+    {
+        "sheng": "r",
+        "yun": "ong",
+        "difficulty": 12.45203340253584
+    },
+    {
+        "sheng": "r",
+        "yun": "ou",
+        "difficulty": 11.472175154740334
+    },
+    {
+        "sheng": "r",
+        "yun": "u",
+        "difficulty": 10.725503563002722
+    },
+    {
+        "sheng": "r",
+        "yun": "ua",
+        "difficulty": 14.741026311267643
+    },
+    {
+        "sheng": "r",
+        "yun": "uan",
+        "difficulty": 12.36138295538757
+    },
+    {
+        "sheng": "r",
+        "yun": "ui",
+        "difficulty": 10.736249778324847
+    },
+    {
+        "sheng": "r",
+        "yun": "un",
+        "difficulty": 17.657356193771392
+    },
+    {
+        "sheng": "r",
+        "yun": "uo",
+        "difficulty": 15.208970497131581
+    },
+    {
+        "sheng": "s",
+        "yun": "a",
+        "difficulty": 15.707468704067923
+    },
+    {
+        "sheng": "s",
+        "yun": "ai",
+        "difficulty": 10.670260214795308
+    },
+    {
+        "sheng": "s",
+        "yun": "an",
+        "difficulty": 12.273139588527469
+    },
+    {
+        "sheng": "s",
+        "yun": "ang",
+        "difficulty": 12.393923690926709
+    },
+    {
+        "sheng": "s",
+        "yun": "ao",
+        "difficulty": 12.571617636313944
+    },
+    {
+        "sheng": "s",
+        "yun": "e",
+        "difficulty": 11.389863545917622
+    },
+    {
+        "sheng": "s",
+        "yun": "en",
+        "difficulty": 12.841779530476574
+    },
+    {
+        "sheng": "s",
+        "yun": "eng",
+        "difficulty": 15.239911978318677
+    },
+    {
+        "sheng": "s",
+        "yun": "i",
+        "difficulty": 2.1873908748136173
+    },
+    {
+        "sheng": "s",
+        "yun": "ong",
+        "difficulty": 14.259061402458602
+    },
+    {
+        "sheng": "s",
+        "yun": "ou",
+        "difficulty": 12.962364087101639
+    },
+    {
+        "sheng": "s",
+        "yun": "u",
+        "difficulty": 12.215692495364033
+    },
+    {
+        "sheng": "s",
+        "yun": "uan",
+        "difficulty": 14.055954826755329
+    },
+    {
+        "sheng": "s",
+        "yun": "ui",
+        "difficulty": 12.69144202269952
+    },
+    {
+        "sheng": "s",
+        "yun": "un",
+        "difficulty": 16.432602874835908
+    },
+    {
+        "sheng": "s",
+        "yun": "uo",
+        "difficulty": 15.149382132008956
+    },
+    {
+        "sheng": "t",
+        "yun": "a",
+        "difficulty": 13.528218374493512
+    },
+    {
+        "sheng": "t",
+        "yun": "ai",
+        "difficulty": 8.23038951221398
+    },
+    {
+        "sheng": "t",
+        "yun": "an",
+        "difficulty": 10.09388925895307
+    },
+    {
+        "sheng": "t",
+        "yun": "ang",
+        "difficulty": 10.462747641058982
+    },
+    {
+        "sheng": "t",
+        "yun": "ao",
+        "difficulty": 10.392367306739539
+    },
+    {
+        "sheng": "t",
+        "yun": "e",
+        "difficulty": 8.949992843336316
+    },
+    {
+        "sheng": "t",
+        "yun": "eng",
+        "difficulty": 13.060661648744274
+    },
+    {
+        "sheng": "t",
+        "yun": "i",
+        "difficulty": 1.5855735177161554
+    },
+    {
+        "sheng": "t",
+        "yun": "ian",
+        "difficulty": 11.070136950151468
+    },
+    {
+        "sheng": "t",
+        "yun": "iao",
+        "difficulty": 13.220762138186947
+    },
+    {
+        "sheng": "t",
+        "yun": "ie",
+        "difficulty": 11.392325518992891
+    },
+    {
+        "sheng": "t",
+        "yun": "ing",
+        "difficulty": 11.610901192375868
+    },
+    {
+        "sheng": "t",
+        "yun": "ong",
+        "difficulty": 11.967354944329193
+    },
+    {
+        "sheng": "t",
+        "yun": "ou",
+        "difficulty": 10.783113757527243
+    },
+    {
+        "sheng": "t",
+        "yun": "u",
+        "difficulty": 10.036442165789623
+    },
+    {
+        "sheng": "t",
+        "yun": "uan",
+        "difficulty": 11.87670449718093
+    },
+    {
+        "sheng": "t",
+        "yun": "ui",
+        "difficulty": 10.251571320118206
+    },
+    {
+        "sheng": "t",
+        "yun": "un",
+        "difficulty": 17.585366814092733
+    },
+    {
+        "sheng": "t",
+        "yun": "uo",
+        "difficulty": 14.72429203892494
+    },
+    {
+        "sheng": "w",
+        "yun": "a",
+        "difficulty": 16.815227933188087
+    },
+    {
+        "sheng": "w",
+        "yun": "ai",
+        "difficulty": 11.429395529076908
+    },
+    {
+        "sheng": "w",
+        "yun": "an",
+        "difficulty": 12.564257350062318
+    },
+    {
+        "sheng": "w",
+        "yun": "ang",
+        "difficulty": 13.05424485099606
+    },
+    {
+        "sheng": "w",
+        "yun": "ei",
+        "difficulty": 19.180512580352772
+    },
+    {
+        "sheng": "w",
+        "yun": "en",
+        "difficulty": 13.949538759596724
+    },
+    {
+        "sheng": "w",
+        "yun": "eng",
+        "difficulty": 16.34767120743884
+    },
+    {
+        "sheng": "w",
+        "yun": "o",
+        "difficulty": 15.337110278939889
+    },
+    {
+        "sheng": "w",
+        "yun": "u",
+        "difficulty": 12.259192708509234
+    },
+    {
+        "sheng": "x",
+        "yun": "i",
+        "difficulty": 3.464454370278734
+    },
+    {
+        "sheng": "x",
+        "yun": "ia",
+        "difficulty": 15.652005731913784
+    },
+    {
+        "sheng": "x",
+        "yun": "ian",
+        "difficulty": 13.782239878620203
+    },
+    {
+        "sheng": "x",
+        "yun": "iang",
+        "difficulty": 14.88423409501833
+    },
+    {
+        "sheng": "x",
+        "yun": "iao",
+        "difficulty": 15.439379148761263
+    },
+    {
+        "sheng": "x",
+        "yun": "ie",
+        "difficulty": 14.399283086747488
+    },
+    {
+        "sheng": "x",
+        "yun": "in",
+        "difficulty": 15.421670434911746
+    },
+    {
+        "sheng": "x",
+        "yun": "ing",
+        "difficulty": 15.868189602740955
+    },
+    {
+        "sheng": "x",
+        "yun": "iong",
+        "difficulty": 17.07740480625043
+    },
+    {
+        "sheng": "x",
+        "yun": "iu",
+        "difficulty": 14.788453668099852
+    },
+    {
+        "sheng": "x",
+        "yun": "u",
+        "difficulty": 12.236179230765606
+    },
+    {
+        "sheng": "x",
+        "yun": "uan",
+        "difficulty": 15.051926800793279
+    },
+    {
+        "sheng": "x",
+        "yun": "ue",
+        "difficulty": 16.121266185874838
+    },
+    {
+        "sheng": "x",
+        "yun": "un",
+        "difficulty": 15.20171073967498
+    },
+    {
+        "sheng": "y",
+        "yun": "a",
+        "difficulty": 15.469067913730926
+    },
+    {
+        "sheng": "y",
+        "yun": "an",
+        "difficulty": 12.034738798190482
+    },
+    {
+        "sheng": "y",
+        "yun": "ang",
+        "difficulty": 12.403597180296396
+    },
+    {
+        "sheng": "y",
+        "yun": "ao",
+        "difficulty": 12.494413840489683
+    },
+    {
+        "sheng": "y",
+        "yun": "e",
+        "difficulty": 10.890842382573721
+    },
+    {
+        "sheng": "y",
+        "yun": "i",
+        "difficulty": 4.03178324876255
+    },
+    {
+        "sheng": "y",
+        "yun": "in",
+        "difficulty": 15.697503344960001
+    },
+    {
+        "sheng": "y",
+        "yun": "ing",
+        "difficulty": 13.798991324084504
+    },
+    {
+        "sheng": "y",
+        "yun": "o",
+        "difficulty": 15.303613206559197
+    },
+    {
+        "sheng": "y",
+        "yun": "ong",
+        "difficulty": 13.908204483566612
+    },
+    {
+        "sheng": "y",
+        "yun": "ou",
+        "difficulty": 13.016058553417123
+    },
+    {
+        "sheng": "y",
+        "yun": "u",
+        "difficulty": 11.916229274993702
+    },
+    {
+        "sheng": "y",
+        "yun": "uan",
+        "difficulty": 13.817554036418342
+    },
+    {
+        "sheng": "y",
+        "yun": "ue",
+        "difficulty": 17.39061249489444
+    },
+    {
+        "sheng": "y",
+        "yun": "un",
+        "difficulty": 15.70486318262502
+    },
+    {
+        "sheng": "z",
+        "yun": "a",
+        "difficulty": 15.679052902719882
+    },
+    {
+        "sheng": "z",
+        "yun": "ai",
+        "difficulty": 9.596987720132981
+    },
+    {
+        "sheng": "z",
+        "yun": "an",
+        "difficulty": 11.528449723647375
+    },
+    {
+        "sheng": "z",
+        "yun": "ang",
+        "difficulty": 11.595600252876398
+    },
+    {
+        "sheng": "z",
+        "yun": "ao",
+        "difficulty": 12.15313255276308
+    },
+    {
+        "sheng": "z",
+        "yun": "e",
+        "difficulty": 10.78496566794842
+    },
+    {
+        "sheng": "z",
+        "yun": "ei",
+        "difficulty": 19.03070548812709
+    },
+    {
+        "sheng": "z",
+        "yun": "en",
+        "difficulty": 12.693640073732071
+    },
+    {
+        "sheng": "z",
+        "yun": "eng",
+        "difficulty": 14.427259856663275
+    },
+    {
+        "sheng": "z",
+        "yun": "i",
+        "difficulty": 1.9641288515254316
+    },
+    {
+        "sheng": "z",
+        "yun": "ong",
+        "difficulty": 13.62772846340393
+    },
+    {
+        "sheng": "z",
+        "yun": "ou",
+        "difficulty": 13.411414458712784
+    },
+    {
+        "sheng": "z",
+        "yun": "u",
+        "difficulty": 12.352260527086061
+    },
+    {
+        "sheng": "z",
+        "yun": "uan",
+        "difficulty": 13.24330270509993
+    },
+    {
+        "sheng": "z",
+        "yun": "ui",
+        "difficulty": 12.100753929740222
+    },
+    {
+        "sheng": "z",
+        "yun": "un",
+        "difficulty": 17.642865618124105
+    },
+    {
+        "sheng": "z",
+        "yun": "uo",
+        "difficulty": 15.85944021755308
+    },
+    {
+        "sheng": "ch",
+        "yun": "a",
+        "difficulty": 15.264726423053723
+    },
+    {
+        "sheng": "ch",
+        "yun": "ai",
+        "difficulty": 9.966897560774198
+    },
+    {
+        "sheng": "ch",
+        "yun": "an",
+        "difficulty": 11.830397307513282
+    },
+    {
+        "sheng": "ch",
+        "yun": "ang",
+        "difficulty": 12.100994127086786
+    },
+    {
+        "sheng": "ch",
+        "yun": "ao",
+        "difficulty": 12.128875355299751
+    },
+    {
+        "sheng": "ch",
+        "yun": "e",
+        "difficulty": 10.686500891896523
+    },
+    {
+        "sheng": "ch",
+        "yun": "en",
+        "difficulty": 12.399037249462372
+    },
+    {
+        "sheng": "ch",
+        "yun": "eng",
+        "difficulty": 14.797169697304483
+    },
+    {
+        "sheng": "ch",
+        "yun": "i",
+        "difficulty": 2.291353388871094
+    },
+    {
+        "sheng": "ch",
+        "yun": "ong",
+        "difficulty": 13.703862992889409
+    },
+    {
+        "sheng": "ch",
+        "yun": "ou",
+        "difficulty": 12.519621806087452
+    },
+    {
+        "sheng": "ch",
+        "yun": "u",
+        "difficulty": 11.772950214349837
+    },
+    {
+        "sheng": "ch",
+        "yun": "ua",
+        "difficulty": 15.992855901621214
+    },
+    {
+        "sheng": "ch",
+        "yun": "uai",
+        "difficulty": 19.225208677145172
+    },
+    {
+        "sheng": "ch",
+        "yun": "uan",
+        "difficulty": 13.613212545741144
+    },
+    {
+        "sheng": "ch",
+        "yun": "uang",
+        "difficulty": 16.4123975106787
+    },
+    {
+        "sheng": "ch",
+        "yun": "ui",
+        "difficulty": 12.293546856817814
+    },
+    {
+        "sheng": "ch",
+        "yun": "un",
+        "difficulty": 15.299284915355708
+    },
+    {
+        "sheng": "ch",
+        "yun": "uo",
+        "difficulty": 15.51339314135298
+    },
+    {
+        "sheng": "sh",
+        "yun": "a",
+        "difficulty": 10.774707805796357
+    },
+    {
+        "sheng": "sh",
+        "yun": "ai",
+        "difficulty": 5.315532757738019
+    },
+    {
+        "sheng": "sh",
+        "yun": "an",
+        "difficulty": 7.334912833817311
+    },
+    {
+        "sheng": "sh",
+        "yun": "ang",
+        "difficulty": 7.521780635572432
+    },
+    {
+        "sheng": "sh",
+        "yun": "ao",
+        "difficulty": 7.800053732555119
+    },
+    {
+        "sheng": "sh",
+        "yun": "e",
+        "difficulty": 6.03513608886035
+    },
+    {
+        "sheng": "sh",
+        "yun": "en",
+        "difficulty": 7.909018632205003
+    },
+    {
+        "sheng": "sh",
+        "yun": "eng",
+        "difficulty": 10.14580489426831
+    },
+    {
+        "sheng": "sh",
+        "yun": "i",
+        "difficulty": 0.6552436577680791
+    },
+    {
+        "sheng": "sh",
+        "yun": "ou",
+        "difficulty": 8.321698445482559
+    },
+    {
+        "sheng": "sh",
+        "yun": "u",
+        "difficulty": 7.1757047500986335
+    },
+    {
+        "sheng": "sh",
+        "yun": "ua",
+        "difficulty": 11.34149109858503
+    },
+    {
+        "sheng": "sh",
+        "yun": "uai",
+        "difficulty": 14.573843874108988
+    },
+    {
+        "sheng": "sh",
+        "yun": "uan",
+        "difficulty": 8.961847742704968
+    },
+    {
+        "sheng": "sh",
+        "yun": "uang",
+        "difficulty": 11.761032707642512
+    },
+    {
+        "sheng": "sh",
+        "yun": "ui",
+        "difficulty": 7.336714565642241
+    },
+    {
+        "sheng": "sh",
+        "yun": "un",
+        "difficulty": 12.496307000278213
+    },
+    {
+        "sheng": "sh",
+        "yun": "uo",
+        "difficulty": 9.368024211506453
+    },
+    {
+        "sheng": "zh",
+        "yun": "a",
+        "difficulty": 17.785569073272892
+    },
+    {
+        "sheng": "zh",
+        "yun": "ai",
+        "difficulty": 12.669726450244323
+    },
+    {
+        "sheng": "zh",
+        "yun": "an",
+        "difficulty": 14.351239957732439
+    },
+    {
+        "sheng": "zh",
+        "yun": "ang",
+        "difficulty": 14.669143525737042
+    },
+    {
+        "sheng": "zh",
+        "yun": "ao",
+        "difficulty": 14.649718005518912
+    },
+    {
+        "sheng": "zh",
+        "yun": "e",
+        "difficulty": 13.665083380727964
+    },
+    {
+        "sheng": "zh",
+        "yun": "ei",
+        "difficulty": 20
+    },
+    {
+        "sheng": "zh",
+        "yun": "en",
+        "difficulty": 14.919879899681534
+    },
+    {
+        "sheng": "zh",
+        "yun": "eng",
+        "difficulty": 17.318012347523645
+    },
+    {
+        "sheng": "zh",
+        "yun": "i",
+        "difficulty": 3.954130486259304
+    },
+    {
+        "sheng": "zh",
+        "yun": "ong",
+        "difficulty": 16.33716177166357
+    },
+    {
+        "sheng": "zh",
+        "yun": "ou",
+        "difficulty": 15.040464456306607
+    },
+    {
+        "sheng": "zh",
+        "yun": "u",
+        "difficulty": 13.710074377262094
+    },
+    {
+        "sheng": "zh",
+        "yun": "ua",
+        "difficulty": 18.513698551840367
+    },
+    {
+        "sheng": "zh",
+        "yun": "uai",
+        "difficulty": 20
+    },
+    {
+        "sheng": "zh",
+        "yun": "uan",
+        "difficulty": 16.134055195960304
+    },
+    {
+        "sheng": "zh",
+        "yun": "uang",
+        "difficulty": 18.860686148643268
+    },
+    {
+        "sheng": "zh",
+        "yun": "ui",
+        "difficulty": 14.814389507036976
+    },
+    {
+        "sheng": "zh",
+        "yun": "un",
+        "difficulty": 17.380719911569244
+    },
+    {
+        "sheng": "zh",
+        "yun": "uo",
+        "difficulty": 17.733614488420017
+    }
+]

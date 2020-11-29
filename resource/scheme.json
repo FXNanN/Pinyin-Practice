@@ -1,0 +1,293 @@
+{
+  "weiruan": {
+    "sheng": {
+      "b": "b",
+
+      "c": "c",
+
+      "d": "d",
+
+      "f": "f",
+
+      "g": "g",
+
+      "h": "h",
+
+      "j": "j",
+
+      "k": "k",
+
+      "l": "l",
+
+      "m": "m",
+
+      "n": "n",
+
+      "p": "p",
+
+      "q": "q",
+
+      "r": "r",
+
+      "s": "s",
+
+      "t": "t",
+
+      "w": "w",
+
+      "x": "x",
+
+      "y": "y",
+
+      "z": "z",
+
+      "ch": "i",
+
+      "sh": "u",
+
+      "zh": "v"
+    },
+
+    "yun": {
+      "a": "a",
+
+      "ai": "l",
+
+      "an": "j",
+
+      "ang": "h",
+
+      "ao": "k",
+
+      "e": "e",
+
+      "ei": "z",
+
+      "en": "f",
+
+      "eng": "g",
+
+      "i": "i",
+
+      "ia": "w",
+
+      "ian": "m",
+
+      "iang": "d",
+
+      "iao": "c",
+
+      "ie": "x",
+
+      "iong": "s",
+
+      "in": "n",
+
+      "ing": ";",
+
+      "iu": "q",
+
+      "o": "o",
+
+      "ong": "s",
+
+      "ou": "b",
+
+      "u": "u",
+
+      "ua": "w",
+
+      "uai": "y",
+
+      "uan": "r",
+
+      "uang": "d",
+
+      "ue": ["t", "v"],
+
+      "ui": "v",
+
+      "un": "p",
+
+      "uo": "o",
+
+      "v": "y",
+
+      "ve": ["t", "v"]
+    },
+
+    "other": {
+      "a": "oa",
+
+      "ai": "ol",
+
+      "an": "oj",
+
+      "ang": "oh",
+
+      "ao": "ok",
+
+      "e": "oe",
+
+      "ei": "oz",
+
+      "en": "of",
+
+      "eng": "og",
+
+      "er": "or",
+
+      "o": "oo",
+
+      "ou": "ob"
+    },
+
+    "validCharList": "qwertyuiopasdfghjklzxcvbnm;"
+  },
+
+  "quanpin": {
+    "sheng": {
+      "b": "b",
+
+      "c": "c",
+
+      "d": "d",
+
+      "f": "f",
+
+      "g": "g",
+
+      "h": "h",
+
+      "j": "j",
+
+      "k": "k",
+
+      "l": "l",
+
+      "m": "m",
+
+      "n": "n",
+
+      "p": "p",
+
+      "q": "q",
+
+      "r": "r",
+
+      "s": "s",
+
+      "t": "t",
+
+      "w": "w",
+
+      "x": "x",
+
+      "y": "y",
+
+      "z": "z",
+
+      "ch": "ch",
+
+      "sh": "sh",
+
+      "zh": "zh"
+    },
+
+    "yun": {
+      "a": "a",
+
+      "ai": "ai",
+
+      "an": "an",
+
+      "ang": "ang",
+
+      "ao": "ao",
+
+      "e": "e",
+
+      "ei": "ei",
+
+      "en": "en",
+
+      "eng": "eng",
+
+      "i": "i",
+
+      "ia": "ia",
+
+      "ian": "ian",
+
+      "iang": "iang",
+
+      "iao": "iao",
+
+      "ie": "ie",
+
+      "iong": "iong",
+
+      "in": "in",
+
+      "ing": "ing",
+
+      "iu": "iu",
+
+      "o": "o",
+
+      "ong": "ong",
+
+      "ou": "ou",
+
+      "u": "u",
+
+      "ua": "ua",
+
+      "uai": "uai",
+
+      "uan": "uan",
+
+      "uang": "uang",
+
+      "ue": "ue",
+
+      "ui": "ui",
+
+      "un": "un",
+
+      "uo": "uo",
+
+      "v": "v",
+
+      "ve": "ve"
+    },
+
+    "other": {
+      "a": "a",
+
+      "ai": "ai",
+
+      "an": "an",
+
+      "ang": "ang",
+
+      "ao": "ao",
+
+      "e": "e",
+
+      "ei": "ei",
+
+      "en": "en",
+
+      "eng": "eng",
+
+      "er": "er",
+
+      "o": "o",
+
+      "ou": "ou"
+    },
+
+    "validCharList": "qwertyuiopasdfghjklzxcvbnm"
+  }
+}

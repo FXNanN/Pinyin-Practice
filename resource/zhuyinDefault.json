@@ -1,0 +1,7784 @@
+{
+    "行路难": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "xíng"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "lù"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "nán"
+                }
+            ],
+            "weight": 17
+        }
+    ],
+    "行": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "xíng"
+                }
+            ],
+            "weight": 4
+        },
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "háng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "难": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "nán"
+                }
+            ],
+            "weight": 20
+        }
+    ],
+    "行行出状元": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "háng"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "háng"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "chū"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "uang",
+                    "shengdiao": 4,
+                    "pinyin": "zhuàng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "yuán"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "阙道华": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "ue",
+                    "shengdiao": 1,
+                    "pinyin": "quē"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "ao",
+                    "shengdiao": 4,
+                    "pinyin": "dào"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ua",
+                    "shengdiao": 2,
+                    "pinyin": "huá"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "阙": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "ue",
+                    "shengdiao": 1,
+                    "pinyin": "quē"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "华": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ua",
+                    "shengdiao": 2,
+                    "pinyin": "huá"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "沙嗲羊肉串": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "shā"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "ia",
+                    "shengdiao": 3,
+                    "pinyin": "diǎ"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "yáng"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "ròu"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "uan",
+                    "shengdiao": 4,
+                    "pinyin": "chuàn"
+                }
+            ],
+            "weight": 7
+        }
+    ],
+    "沙": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "shā"
+                }
+            ],
+            "weight": 9
+        }
+    ],
+    "喷出": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "en",
+                    "shengdiao": 1,
+                    "pinyin": "pēn"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "chū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "喷": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "en",
+                    "shengdiao": 1,
+                    "pinyin": "pēn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "碧玉炅炅双目瞳": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "bì"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "yù"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iong",
+                    "shengdiao": 3,
+                    "pinyin": "jiǒng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iong",
+                    "shengdiao": 3,
+                    "pinyin": "jiǒng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "uang",
+                    "shengdiao": 1,
+                    "pinyin": "shuāng"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "mù"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "tóng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "炅": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "iong",
+                    "shengdiao": 3,
+                    "pinyin": "jiǒng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "加大码": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ia",
+                    "shengdiao": 1,
+                    "pinyin": "jiā"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "dà"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "mǎ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "大": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "dà"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "真的我": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "en",
+                    "shengdiao": 1,
+                    "pinyin": "zhēn"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "de"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "wǒ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "的": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "de"
+                }
+            ],
+            "weight": 7
+        }
+    ],
+    "搅屎棍": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "iao",
+                    "shengdiao": 3,
+                    "pinyin": "jiǎo"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "shǐ"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "un",
+                    "shengdiao": 4,
+                    "pinyin": "gùn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "棍": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "un",
+                    "shengdiao": 4,
+                    "pinyin": "gùn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "柴田淳": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "chái"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "tián"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "un",
+                    "shengdiao": 2,
+                    "pinyin": "chún"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "淳": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "un",
+                    "shengdiao": 2,
+                    "pinyin": "chún"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "番更": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "fān"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "gēng"
+                }
+            ],
+            "weight": 11
+        }
+    ],
+    "番": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "fān"
+                }
+            ],
+            "weight": 11
+        }
+    ],
+    "更": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "gēng"
+                }
+            ],
+            "weight": 12
+        }
+    ],
+    "排门粉壁": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "pái"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "mén"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "en",
+                    "shengdiao": 3,
+                    "pinyin": "fěn"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "bì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "排": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "pái"
+                }
+            ],
+            "weight": 6
+        }
+    ],
+    "你偶而也会想我么": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "nǐ"
+                },
+                {
+                    "sheng": "",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "ǒu"
+                },
+                {
+                    "sheng": "",
+                    "yun": "er",
+                    "shengdiao": 2,
+                    "pinyin": "ér"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "e",
+                    "shengdiao": 3,
+                    "pinyin": "yě"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "huì"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "iang",
+                    "shengdiao": 3,
+                    "pinyin": "xiǎng"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "wǒ"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "me"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "会": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "huì"
+                }
+            ],
+            "weight": 8
+        }
+    ],
+    "么": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "me"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "提扥普提": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "tí"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "dèn"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "pǔ"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "tí"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "提": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "tí"
+                }
+            ],
+            "weight": 6
+        }
+    ],
+    "曲": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "qū"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "被迷乱着": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ei",
+                    "shengdiao": 4,
+                    "pinyin": "bèi"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "mí"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "uan",
+                    "shengdiao": 4,
+                    "pinyin": "luàn"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "zháo"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "被": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ei",
+                    "shengdiao": 4,
+                    "pinyin": "bèi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "着": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "zháo"
+                }
+            ],
+            "weight": 1
+        },
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "zhe"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "许安安": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "xǔ"
+                },
+                {
+                    "sheng": "",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "ān"
+                },
+                {
+                    "sheng": "",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "ān"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "许": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "xǔ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "万斯年": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "w",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "wàn"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "sī"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "nián"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "万": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "w",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "wàn"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "长恐波头卷室去": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "cháng"
+                },
+                {
+                    "sheng": "k",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "kǒng"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "o",
+                    "shengdiao": 1,
+                    "pinyin": "bō"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "tóu"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "uan",
+                    "shengdiao": 4,
+                    "pinyin": "juàn"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "shì"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "qù"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "长": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "cháng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "头": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "tóu"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "卷": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "uan",
+                    "shengdiao": 4,
+                    "pinyin": "juàn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "持弓缵祖风": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "chí"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "gōng"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "uan",
+                    "shengdiao": 3,
+                    "pinyin": "zuǎn"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "zǔ"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "fēng"
+                }
+            ],
+            "weight": 13
+        }
+    ],
+    "风": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "fēng"
+                }
+            ],
+            "weight": 15
+        }
+    ],
+    "刷": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "ua",
+                    "shengdiao": 1,
+                    "pinyin": "shuā"
+                }
+            ],
+            "weight": 6
+        }
+    ],
+    "哏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "gén"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "备体": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ei",
+                    "shengdiao": 4,
+                    "pinyin": "bèi"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "tǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "体": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "tǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "姥": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "mǔ"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "花红易衰似郎意": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ua",
+                    "shengdiao": 1,
+                    "pinyin": "huā"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "hóng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "yì"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "uai",
+                    "shengdiao": 1,
+                    "pinyin": "shuāi"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "sì"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "láng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "yì"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "衰": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "uai",
+                    "shengdiao": 1,
+                    "pinyin": "shuāi"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "似": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "sì"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "郎": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "láng"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "捏恠排科": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "ie",
+                    "shengdiao": 1,
+                    "pinyin": "niē"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "uai",
+                    "shengdiao": 4,
+                    "pinyin": "guài"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "pái"
+                },
+                {
+                    "sheng": "k",
+                    "yun": "e",
+                    "shengdiao": 1,
+                    "pinyin": "kē"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "次乃康王谷": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "cì"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "nǎi"
+                },
+                {
+                    "sheng": "k",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "kāng"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "gǔ"
+                }
+            ],
+            "weight": 7
+        }
+    ],
+    "王": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                }
+            ],
+            "weight": 10
+        }
+    ],
+    "历载归朝谒": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "lì"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "zǎi"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "guī"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "cháo"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "e",
+                    "shengdiao": 4,
+                    "pinyin": "yè"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "载": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "z",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "zǎi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "朝": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "cháo"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "还给你": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "huán"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "ei",
+                    "shengdiao": 3,
+                    "pinyin": "gěi"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "nǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "还": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "hái"
+                }
+            ],
+            "weight": 3
+        },
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "huán"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "给": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ei",
+                    "shengdiao": 3,
+                    "pinyin": "gěi"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "干酱肉": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "gān"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iang",
+                    "shengdiao": 4,
+                    "pinyin": "jiàng"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "ròu"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "干": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "gān"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "寄语任何曾失意的人": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "jì"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "rèn"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "hé"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "céng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "shī"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "yì"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "de"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "rén"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "语": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "曾": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "céng"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "星期五": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ing",
+                    "shengdiao": 1,
+                    "pinyin": "xīng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "qī"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "wǔ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "期": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "qī"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "岂问庭前柏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "qǐ"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "wèn"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "tíng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "qián"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "bǎi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "岂": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "qǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "柏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "bǎi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "瞧得起": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "iao",
+                    "shengdiao": 2,
+                    "pinyin": "qiáo"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "dé"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "qǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "得": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "dé"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "良庖岁更刀": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "iang",
+                    "shengdiao": 2,
+                    "pinyin": "liáng"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "páo"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "suì"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "gēng"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "ao",
+                    "shengdiao": 1,
+                    "pinyin": "dāo"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "不若行沙弄夕霏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "ruò"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "xíng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "shā"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "nòng"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "xī"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "ei",
+                    "shengdiao": 1,
+                    "pinyin": "fēi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "不": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                }
+            ],
+            "weight": 9
+        }
+    ],
+    "若": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "r",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "ruò"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "弄": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "nòng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "海贼王": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "hǎi"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ei",
+                    "shengdiao": 2,
+                    "pinyin": "zéi"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "怒火中烧": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "nù"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "huǒ"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "zhōng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ao",
+                    "shengdiao": 1,
+                    "pinyin": "shāo"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "中": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "zhōng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "白藏初送节": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "bái"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "cáng"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "chū"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "sòng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 2,
+                    "pinyin": "jié"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "藏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "cáng"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "节": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 2,
+                    "pinyin": "jié"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "共同的心愿": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "gòng"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "tóng"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "de"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "in",
+                    "shengdiao": 1,
+                    "pinyin": "xīn"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "uan",
+                    "shengdiao": 4,
+                    "pinyin": "yuàn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "共": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "gòng"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "同": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "tóng"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "胡言汉语": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "hú"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "yán"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "hàn"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "缪公亟见於子思曰": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "iu",
+                    "shengdiao": 4,
+                    "pinyin": "miù"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "gōng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "jí"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "jiàn"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "yú"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "zǐ"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "sī"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ue",
+                    "shengdiao": 1,
+                    "pinyin": "yuē"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "缪": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "iu",
+                    "shengdiao": 4,
+                    "pinyin": "miù"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "亟": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "jí"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "见": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "jiàn"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "於": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "yú"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "思": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "sī"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "数": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "shù"
+                }
+            ],
+            "weight": 6
+        }
+    ],
+    "回首成差池": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 2,
+                    "pinyin": "huí"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "shǒu"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "chéng"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "chà"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "chí"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "差": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "chà"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "苏阮": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "sū"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "uan",
+                    "shengdiao": 3,
+                    "pinyin": "ruǎn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "苏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "sū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "上海炸猪排": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "shàng"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "hǎi"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "zhà"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "zhū"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "pái"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "上": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "shàng"
+                }
+            ],
+            "weight": 8
+        }
+    ],
+    "炸": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "zhà"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "郭细侯": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "uo",
+                    "shengdiao": 1,
+                    "pinyin": "guō"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "xì"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "hóu"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "侯": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "hóu"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "等不及": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "eng",
+                    "shengdiao": 3,
+                    "pinyin": "děng"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "jí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "遗传学习": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "yí"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "chuán"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ue",
+                    "shengdiao": 2,
+                    "pinyin": "xué"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "xí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "传": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "chuán"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "羊": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "yáng"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "日月合壁": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "r",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "rì"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ue",
+                    "shengdiao": 4,
+                    "pinyin": "yuè"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "hé"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "bì"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "合": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "hé"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "乘月弄澄泉": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "chéng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ue",
+                    "shengdiao": 4,
+                    "pinyin": "yuè"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "nòng"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "chéng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "quán"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "乘": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "chéng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "澄": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "chéng"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "你还在不在": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "nǐ"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "hái"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "zài"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "zài"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "官正": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "uan",
+                    "shengdiao": 1,
+                    "pinyin": "guān"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "eng",
+                    "shengdiao": 4,
+                    "pinyin": "zhèng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "正": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "eng",
+                    "shengdiao": 4,
+                    "pinyin": "zhèng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "崔信明": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "cuī"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "in",
+                    "shengdiao": 4,
+                    "pinyin": "xìn"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "míng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "信": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "in",
+                    "shengdiao": 4,
+                    "pinyin": "xìn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "怕甚麽": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "pà"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "shèn"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "mó"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "甚": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "shèn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "麽": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "mó"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "暮的": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "mù"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "de"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "二龙戏珠": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "",
+                    "yun": "er",
+                    "shengdiao": 4,
+                    "pinyin": "èr"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "lóng"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "xì"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "zhū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "戏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "xì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "骡马大会": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "uo",
+                    "shengdiao": 2,
+                    "pinyin": "luó"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "mǎ"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "dà"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "huì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "擦鞋仔": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "cā"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ie",
+                    "shengdiao": 2,
+                    "pinyin": "xié"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "仔": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "z",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "迫在眉尖": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "pò"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "zài"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ei",
+                    "shengdiao": 2,
+                    "pinyin": "méi"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ian",
+                    "shengdiao": 1,
+                    "pinyin": "jiān"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "迫": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "pò"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "莲童牌冬瓜条": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "lián"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "tóng"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "pái"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "dōng"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "ua",
+                    "shengdiao": 1,
+                    "pinyin": "guā"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "iao",
+                    "shengdiao": 2,
+                    "pinyin": "tiáo"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "条": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "iao",
+                    "shengdiao": 2,
+                    "pinyin": "tiáo"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "陀佛": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "uo",
+                    "shengdiao": 2,
+                    "pinyin": "tuó"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "fó"
+                }
+            ],
+            "weight": 10
+        }
+    ],
+    "佛": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "fó"
+                }
+            ],
+            "weight": 12
+        }
+    ],
+    "单色恋": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "dān"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "e",
+                    "shengdiao": 4,
+                    "pinyin": "sè"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "liàn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "单": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "dān"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "择": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "z",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "zé"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "繁": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "fán"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "便时": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "biàn"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "shí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "便": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "biàn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "抗迹远尘轨": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "kàng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "jì"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "uan",
+                    "shengdiao": 3,
+                    "pinyin": "yuǎn"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "chén"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "ui",
+                    "shengdiao": 3,
+                    "pinyin": "guǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "远": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "uan",
+                    "shengdiao": 3,
+                    "pinyin": "yuǎn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "隳": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "huī"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "任": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "r",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "rèn"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "何": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "hé"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "兵马精强": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ing",
+                    "shengdiao": 1,
+                    "pinyin": "bīng"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "mǎ"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ing",
+                    "shengdiao": 1,
+                    "pinyin": "jīng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "iang",
+                    "shengdiao": 2,
+                    "pinyin": "qiáng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "强": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "iang",
+                    "shengdiao": 2,
+                    "pinyin": "qiáng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "别有人间行路难": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ie",
+                    "shengdiao": 2,
+                    "pinyin": "bié"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "yǒu"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "rén"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ian",
+                    "shengdiao": 1,
+                    "pinyin": "jiān"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "xíng"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "lù"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "nán"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "别": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ie",
+                    "shengdiao": 2,
+                    "pinyin": "bié"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "有": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "yǒu"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "间": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ian",
+                    "shengdiao": 1,
+                    "pinyin": "jiān"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "将作春衫称少年": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "jiāng"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "zuò"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "chūn"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "shān"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "chēng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "shǎo"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "nián"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "将": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "jiāng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "称": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "chēng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "少": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "shǎo"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "漏脉冲": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "lòu"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "mài"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "chōng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "脉": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "mài"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "冲": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "chōng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "沓": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "tà"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "久竹生青宁": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "iu",
+                    "shengdiao": 3,
+                    "pinyin": "jiǔ"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "zhú"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "shēng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "ing",
+                    "shengdiao": 1,
+                    "pinyin": "qīng"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "níng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "宁": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "níng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "相类相从": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "xiāng"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ei",
+                    "shengdiao": 4,
+                    "pinyin": "lèi"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "xiāng"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "cóng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "相": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "xiāng"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "从": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "cóng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "夹": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ia",
+                    "shengdiao": 1,
+                    "pinyin": "jiā"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "追伸": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "zhuī"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "en",
+                    "shengdiao": 1,
+                    "pinyin": "shēn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "追": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "zhuī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "挝": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "ua",
+                    "shengdiao": 1,
+                    "pinyin": "zhuā"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "混兮其若浊": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "un",
+                    "shengdiao": 4,
+                    "pinyin": "hùn"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "xī"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "qí"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "ruò"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "uo",
+                    "shengdiao": 2,
+                    "pinyin": "zhuó"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "混": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "un",
+                    "shengdiao": 4,
+                    "pinyin": "hùn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "其": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "qí"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "等着瞧": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "eng",
+                    "shengdiao": 3,
+                    "pinyin": "děng"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "zhe"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "iao",
+                    "shengdiao": 2,
+                    "pinyin": "qiáo"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "和善": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "hé"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "shàn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "和": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "hé"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "爱情笨猪跳": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "ài"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "qíng"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "bèn"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "zhū"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "iao",
+                    "shengdiao": 4,
+                    "pinyin": "tiào"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "跳": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "iao",
+                    "shengdiao": 4,
+                    "pinyin": "tiào"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "嘚": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 1,
+                    "pinyin": "dē"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "屏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "píng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "咯": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "luò"
+                }
+            ],
+            "weight": 2
+        },
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "e",
+                    "shengdiao": 1,
+                    "pinyin": "gē"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "枸杞茶": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "gǒu"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "qǐ"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "a",
+                    "shengdiao": 2,
+                    "pinyin": "chá"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "枸": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "gǒu"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "钢琴演奏版": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "gāng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "in",
+                    "shengdiao": 2,
+                    "pinyin": "qín"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "an",
+                    "shengdiao": 3,
+                    "pinyin": "yǎn"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "zòu"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "an",
+                    "shengdiao": 3,
+                    "pinyin": "bǎn"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "钢": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "gāng"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "强作解事": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "iang",
+                    "shengdiao": 2,
+                    "pinyin": "qiáng"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "zuò"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 3,
+                    "pinyin": "jiě"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "shì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "解": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 3,
+                    "pinyin": "jiě"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "扒皮": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "a",
+                    "shengdiao": 2,
+                    "pinyin": "pá"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "pí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "扒": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "a",
+                    "shengdiao": 2,
+                    "pinyin": "pá"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "朴诗恩": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "pǔ"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "shī"
+                },
+                {
+                    "sheng": "",
+                    "yun": "en",
+                    "shengdiao": 1,
+                    "pinyin": "ēn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "朴": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "pǔ"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "绿窗朱户春昼闭": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "v",
+                    "shengdiao": 4,
+                    "pinyin": "lǜ"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "uang",
+                    "shengdiao": 1,
+                    "pinyin": "chuāng"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "zhū"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "hù"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "chūn"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "zhòu"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "bì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "绿": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "v",
+                    "shengdiao": 4,
+                    "pinyin": "lǜ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "朱": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "zhū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "令尹眉头相豁开": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "líng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "in",
+                    "shengdiao": 3,
+                    "pinyin": "yǐn"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ei",
+                    "shengdiao": 2,
+                    "pinyin": "méi"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "tóu"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "xiāng"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "uo",
+                    "shengdiao": 1,
+                    "pinyin": "huō"
+                },
+                {
+                    "sheng": "k",
+                    "yun": "ai",
+                    "shengdiao": 1,
+                    "pinyin": "kāi"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "令": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "líng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "豁": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "uo",
+                    "shengdiao": 1,
+                    "pinyin": "huō"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "春湖绕芳甸": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "chūn"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "hú"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "ao",
+                    "shengdiao": 4,
+                    "pinyin": "rào"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "fāng"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "diàn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "甸": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "diàn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "住宿": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "zhù"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "sù"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "宿": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "sù"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "老婆呢": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "lǎo"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "pó"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "ne"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "呢": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "ne"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "临期失误": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "in",
+                    "shengdiao": 2,
+                    "pinyin": "lín"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "qī"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "shī"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "wù"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "还好": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "hái"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "hǎo"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "好": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "hǎo"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "牧岛有希": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "mù"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "dǎo"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "yǒu"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "xī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "快若五陵侠": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "uai",
+                    "shengdiao": 4,
+                    "pinyin": "kuài"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "ruò"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "wǔ"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "líng"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ia",
+                    "shengdiao": 2,
+                    "pinyin": "xiá"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "楚挽虽多相": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "chǔ"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "an",
+                    "shengdiao": 3,
+                    "pinyin": "wǎn"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "suī"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "uo",
+                    "shengdiao": 1,
+                    "pinyin": "duō"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "xiāng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "不怕一万就怕万一": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "pà"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "yī"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "wàn"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iu",
+                    "shengdiao": 4,
+                    "pinyin": "jiù"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "pà"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "wàn"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "yī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "技术水平": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "jì"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "shù"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ui",
+                    "shengdiao": 3,
+                    "pinyin": "shuǐ"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "píng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "术": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "shù"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "积德已自三世种": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "jī"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "dé"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "yǐ"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "zì"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "sān"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "shì"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "zhǒng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "种": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "zhǒng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "红色玫瑰": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "hóng"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "e",
+                    "shengdiao": 4,
+                    "pinyin": "sè"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ei",
+                    "shengdiao": 2,
+                    "pinyin": "méi"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "guī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "红": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "hóng"
+                }
+            ],
+            "weight": 5
+        }
+    ],
+    "范传正": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "fàn"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "chuán"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "eng",
+                    "shengdiao": 4,
+                    "pinyin": "zhèng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "红日薄侵罗绮": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "hóng"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "rì"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "bó"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "in",
+                    "shengdiao": 1,
+                    "pinyin": "qīn"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "uo",
+                    "shengdiao": 2,
+                    "pinyin": "luó"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "qǐ"
+                }
+            ],
+            "weight": 2
+        },
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "hóng"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "rì"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "báo"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "in",
+                    "shengdiao": 1,
+                    "pinyin": "qīn"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "uo",
+                    "shengdiao": 2,
+                    "pinyin": "luó"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "qǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "薄": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "bó"
+                }
+            ],
+            "weight": 2
+        },
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "báo"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "简单朋友": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ian",
+                    "shengdiao": 3,
+                    "pinyin": "jiǎn"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "dān"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "péng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "yǒu"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "号诉甘百谪": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ao",
+                    "shengdiao": 4,
+                    "pinyin": "hào"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "sù"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "gān"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "bǎi"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "zhé"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "号": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ao",
+                    "shengdiao": 4,
+                    "pinyin": "hào"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "林麇走自索": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "in",
+                    "shengdiao": 2,
+                    "pinyin": "lín"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "jūn"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "zǒu"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "zì"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "suǒ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "麇": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "jūn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "空传孙郎石": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "kōng"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "chuán"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "sūn"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "láng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "shí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "空": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "kōng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "孙": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "sūn"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "石": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "shí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "达人之节": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "a",
+                    "shengdiao": 2,
+                    "pinyin": "dá"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "rén"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zhī"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 2,
+                    "pinyin": "jié"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "给你一份温柔": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ei",
+                    "shengdiao": 3,
+                    "pinyin": "gěi"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "nǐ"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "yī"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "fèn"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "en",
+                    "shengdiao": 1,
+                    "pinyin": "wēn"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "róu"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "份": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "en",
+                    "shengdiao": 4,
+                    "pinyin": "fèn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "宽绰": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "uan",
+                    "shengdiao": 1,
+                    "pinyin": "kuān"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "chuò"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "绰": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "chuò"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "杖节把钺": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "zhàng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 2,
+                    "pinyin": "jié"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "bǎ"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ue",
+                    "shengdiao": 4,
+                    "pinyin": "yuè"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "把": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "bǎ"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "莫泊桑": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "mò"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "bó"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "sāng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "莫": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "mò"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "泊": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "bó"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "剖腹藏珠": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "ou",
+                    "shengdiao": 1,
+                    "pinyin": "pōu"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "fù"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "cáng"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "zhū"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "衰弱": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "uai",
+                    "shengdiao": 1,
+                    "pinyin": "shuāi"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "ruò"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "不会呀": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "huì"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "yā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "呀": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "yā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "雪拥蓝关马不前": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ue",
+                    "shengdiao": 3,
+                    "pinyin": "xuě"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ong",
+                    "shengdiao": 1,
+                    "pinyin": "yōng"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "lán"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "uan",
+                    "shengdiao": 1,
+                    "pinyin": "guān"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "mǎ"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "qián"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "雪花酒上灭": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ue",
+                    "shengdiao": 3,
+                    "pinyin": "xuě"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ua",
+                    "shengdiao": 1,
+                    "pinyin": "huā"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iu",
+                    "shengdiao": 3,
+                    "pinyin": "jiǔ"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "shàng"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ie",
+                    "shengdiao": 4,
+                    "pinyin": "miè"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "六经皆史": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "iu",
+                    "shengdiao": 4,
+                    "pinyin": "liù"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ing",
+                    "shengdiao": 1,
+                    "pinyin": "jīng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 1,
+                    "pinyin": "jiē"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "shǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "六": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "iu",
+                    "shengdiao": 4,
+                    "pinyin": "liù"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "肯把参同较同异": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "en",
+                    "shengdiao": 3,
+                    "pinyin": "kěn"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "bǎ"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "cān"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "tóng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iao",
+                    "shengdiao": 4,
+                    "pinyin": "jiào"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "tóng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "yì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "参": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "cān"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "抛鸾拆凤": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "ao",
+                    "shengdiao": 1,
+                    "pinyin": "pāo"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "luán"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "ai",
+                    "shengdiao": 1,
+                    "pinyin": "chāi"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "eng",
+                    "shengdiao": 4,
+                    "pinyin": "fèng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "拆": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ai",
+                    "shengdiao": 1,
+                    "pinyin": "chāi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "画疆墨守": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ua",
+                    "shengdiao": 4,
+                    "pinyin": "huà"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "jiāng"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "mò"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "shǒu"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "疆": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "jiāng"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "行庆": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "xíng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "ing",
+                    "shengdiao": 4,
+                    "pinyin": "qìng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "当仁不让": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "dāng"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "rén"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "bù"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "ràng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "当": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "dāng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "弥撒": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "mí"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "sā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "弥": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "mí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "撒": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "sā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "辍食吐哺": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "chuò"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "shí"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "tǔ"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "bǔ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "食": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "shí"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "吐": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "t",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "tǔ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "多了": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "uo",
+                    "shengdiao": 1,
+                    "pinyin": "duō"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "le"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "了": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "le"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "肯与葡萄压酒浆": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "en",
+                    "shengdiao": 3,
+                    "pinyin": "kěn"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "pú"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "táo"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "yā"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iu",
+                    "shengdiao": 3,
+                    "pinyin": "jiǔ"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "jiāng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "与": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "压": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "yā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "浆": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "iang",
+                    "shengdiao": 1,
+                    "pinyin": "jiāng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "可达": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "e",
+                    "shengdiao": 3,
+                    "pinyin": "kě"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "a",
+                    "shengdiao": 2,
+                    "pinyin": "dá"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "可": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "e",
+                    "shengdiao": 3,
+                    "pinyin": "kě"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "大森亚由子": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "dà"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "en",
+                    "shengdiao": 1,
+                    "pinyin": "sēn"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "yà"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "yóu"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "zǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "郎耕种麻地": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "láng"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "gēng"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "zhǒng"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "a",
+                    "shengdiao": 2,
+                    "pinyin": "má"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "dì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "地": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "dì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "雪映美白演唱会": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ue",
+                    "shengdiao": 3,
+                    "pinyin": "xuě"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ing",
+                    "shengdiao": 4,
+                    "pinyin": "yìng"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ei",
+                    "shengdiao": 3,
+                    "pinyin": "měi"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "bái"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "an",
+                    "shengdiao": 3,
+                    "pinyin": "yǎn"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "chàng"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "huì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "回眸转袖暗催弦": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 2,
+                    "pinyin": "huí"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "móu"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "uan",
+                    "shengdiao": 3,
+                    "pinyin": "zhuǎn"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "iu",
+                    "shengdiao": 4,
+                    "pinyin": "xiù"
+                },
+                {
+                    "sheng": "",
+                    "yun": "an",
+                    "shengdiao": 4,
+                    "pinyin": "àn"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "ui",
+                    "shengdiao": 1,
+                    "pinyin": "cuī"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "xián"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "转": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "uan",
+                    "shengdiao": 3,
+                    "pinyin": "zhuǎn"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "当事人": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "dāng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "shì"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "rén"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "运动估计": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "un",
+                    "shengdiao": 4,
+                    "pinyin": "yùn"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "ong",
+                    "shengdiao": 3,
+                    "pinyin": "dòng"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "gū"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "jì"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "估": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "gū"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "彼为盈虚非盈虚": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "bǐ"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "ei",
+                    "shengdiao": 2,
+                    "pinyin": "wéi"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "yíng"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "xū"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "ei",
+                    "shengdiao": 1,
+                    "pinyin": "fēi"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "yíng"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "xū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "为": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "w",
+                    "yun": "ei",
+                    "shengdiao": 2,
+                    "pinyin": "wéi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "钌": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "iao",
+                    "shengdiao": 3,
+                    "pinyin": "liǎo"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "驾言发富藏": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ia",
+                    "shengdiao": 4,
+                    "pinyin": "jià"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "yán"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "fā"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "fù"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "cáng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "发": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "fā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "潵": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "sǎ"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "昆明水上映牵牛": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "kūn"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "míng"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ui",
+                    "shengdiao": 3,
+                    "pinyin": "shuǐ"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "shàng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ing",
+                    "shengdiao": 4,
+                    "pinyin": "yìng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "ian",
+                    "shengdiao": 1,
+                    "pinyin": "qiān"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "iu",
+                    "shengdiao": 2,
+                    "pinyin": "niú"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "闶": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "k",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "kàng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "吕宁思": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "v",
+                    "shengdiao": 3,
+                    "pinyin": "lǚ"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "níng"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "sī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "给我一双爱的翅膀": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ei",
+                    "shengdiao": 3,
+                    "pinyin": "gěi"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "wǒ"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "yī"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "uang",
+                    "shengdiao": 1,
+                    "pinyin": "shuāng"
+                },
+                {
+                    "sheng": "",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "ài"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "de"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "chì"
+                },
+                {
+                    "sheng": "b",
+                    "yun": "ang",
+                    "shengdiao": 3,
+                    "pinyin": "bǎng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "膀": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ang",
+                    "shengdiao": 3,
+                    "pinyin": "bǎng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "嗟君七岁知念母": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 1,
+                    "pinyin": "jiē"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "jūn"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "qī"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "suì"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zhī"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "niàn"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "mǔ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "知": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zhī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "悼亡": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "ao",
+                    "shengdiao": 4,
+                    "pinyin": "dào"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "亡": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "风雨佛狸愁": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "eng",
+                    "shengdiao": 1,
+                    "pinyin": "fēng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "o",
+                    "shengdiao": 2,
+                    "pinyin": "fó"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "lí"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "ou",
+                    "shengdiao": 2,
+                    "pinyin": "chóu"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "雨": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "蛇子蛇孙": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "shé"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "zǐ"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "shé"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "un",
+                    "shengdiao": 1,
+                    "pinyin": "sūn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "蛇": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "shé"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "洒": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "a",
+                    "shengdiao": 3,
+                    "pinyin": "sǎ"
+                }
+            ],
+            "weight": 6
+        }
+    ],
+    "六枝花": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "iu",
+                    "shengdiao": 4,
+                    "pinyin": "liù"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zhī"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ua",
+                    "shengdiao": 1,
+                    "pinyin": "huā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "枝": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zhī"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "得计": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "dé"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "jì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "理论家": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "lǐ"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "un",
+                    "shengdiao": 4,
+                    "pinyin": "lùn"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ia",
+                    "shengdiao": 1,
+                    "pinyin": "jiā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "论": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "un",
+                    "shengdiao": 4,
+                    "pinyin": "lùn"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "家": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ia",
+                    "shengdiao": 1,
+                    "pinyin": "jiā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "频回眄睐": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "in",
+                    "shengdiao": 2,
+                    "pinyin": "pín"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 2,
+                    "pinyin": "huí"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ian",
+                    "shengdiao": 3,
+                    "pinyin": "miǎn"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "lài"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "频": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "in",
+                    "shengdiao": 2,
+                    "pinyin": "pín"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "朴斫之材": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "p",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "pǔ"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "uo",
+                    "shengdiao": 2,
+                    "pinyin": "zhuó"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "zhī"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "cái"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "好大一棵树": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "hǎo"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "dà"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 1,
+                    "pinyin": "yī"
+                },
+                {
+                    "sheng": "k",
+                    "yun": "e",
+                    "shengdiao": 1,
+                    "pinyin": "kē"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "u",
+                    "shengdiao": 4,
+                    "pinyin": "shù"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "都怪我": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "ou",
+                    "shengdiao": 1,
+                    "pinyin": "dōu"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "uai",
+                    "shengdiao": 4,
+                    "pinyin": "guài"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "wǒ"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "都": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "ou",
+                    "shengdiao": 1,
+                    "pinyin": "dōu"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "读或死": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "dú"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "huò"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "sǐ"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "读": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "dú"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "念此衰冷勤呵嘘": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "ian",
+                    "shengdiao": 4,
+                    "pinyin": "niàn"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "cǐ"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "uai",
+                    "shengdiao": 1,
+                    "pinyin": "shuāi"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "eng",
+                    "shengdiao": 3,
+                    "pinyin": "lěng"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "in",
+                    "shengdiao": 2,
+                    "pinyin": "qín"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 1,
+                    "pinyin": "hē"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "xū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "呵": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "e",
+                    "shengdiao": 1,
+                    "pinyin": "hē"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "嘘": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "xū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "在上海走开": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "z",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "zài"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "shàng"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "hǎi"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "zǒu"
+                },
+                {
+                    "sheng": "k",
+                    "yun": "ai",
+                    "shengdiao": 1,
+                    "pinyin": "kāi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "塞": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "s",
+                    "yun": "ai",
+                    "shengdiao": 1,
+                    "pinyin": "sāi"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "惯食虾蟹蛤": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "uan",
+                    "shengdiao": 4,
+                    "pinyin": "guàn"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "shí"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ia",
+                    "shengdiao": 1,
+                    "pinyin": "xiā"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ie",
+                    "shengdiao": 4,
+                    "pinyin": "xiè"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "gé"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "虾": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "ia",
+                    "shengdiao": 1,
+                    "pinyin": "xiā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "蛤": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "e",
+                    "shengdiao": 2,
+                    "pinyin": "gé"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "海漩三昧觉澄圆": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "hǎi"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "xuán"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "sān"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ei",
+                    "shengdiao": 4,
+                    "pinyin": "mèi"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ue",
+                    "shengdiao": 2,
+                    "pinyin": "jué"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "chéng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "yuán"
+                }
+            ],
+            "weight": 3
+        }
+    ],
+    "觉": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ue",
+                    "shengdiao": 2,
+                    "pinyin": "jué"
+                }
+            ],
+            "weight": 4
+        }
+    ],
+    "百鸟朝凤": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "b",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "bǎi"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "iao",
+                    "shengdiao": 3,
+                    "pinyin": "niǎo"
+                },
+                {
+                    "sheng": "ch",
+                    "yun": "ao",
+                    "shengdiao": 2,
+                    "pinyin": "cháo"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "eng",
+                    "shengdiao": 4,
+                    "pinyin": "fèng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "方会如来同觉海": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "ang",
+                    "shengdiao": 1,
+                    "pinyin": "fāng"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "huì"
+                },
+                {
+                    "sheng": "r",
+                    "yun": "u",
+                    "shengdiao": 2,
+                    "pinyin": "rú"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ai",
+                    "shengdiao": 2,
+                    "pinyin": "lái"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "tóng"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ue",
+                    "shengdiao": 2,
+                    "pinyin": "jué"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ai",
+                    "shengdiao": 3,
+                    "pinyin": "hǎi"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "冥王我求你快显灵": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "míng"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "wǒ"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "iu",
+                    "shengdiao": 2,
+                    "pinyin": "qiú"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "nǐ"
+                },
+                {
+                    "sheng": "k",
+                    "yun": "uai",
+                    "shengdiao": 4,
+                    "pinyin": "kuài"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "ian",
+                    "shengdiao": 3,
+                    "pinyin": "xiǎn"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "ing",
+                    "shengdiao": 2,
+                    "pinyin": "líng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "船夫": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "uan",
+                    "shengdiao": 2,
+                    "pinyin": "chuán"
+                },
+                {
+                    "sheng": "f",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "fū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "夫": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "f",
+                    "yun": "u",
+                    "shengdiao": 1,
+                    "pinyin": "fū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "你在做什么呢": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "nǐ"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "ai",
+                    "shengdiao": 4,
+                    "pinyin": "zài"
+                },
+                {
+                    "sheng": "z",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "zuò"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "shén"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "me"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "ne"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "什": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "sh",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "shén"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "港乐": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ang",
+                    "shengdiao": 3,
+                    "pinyin": "gǎng"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "e",
+                    "shengdiao": 4,
+                    "pinyin": "lè"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "港": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "ang",
+                    "shengdiao": 3,
+                    "pinyin": "gǎng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "乐": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "e",
+                    "shengdiao": 4,
+                    "pinyin": "lè"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "嫁与耨檀王": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ia",
+                    "shengdiao": 4,
+                    "pinyin": "jià"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "u",
+                    "shengdiao": 3,
+                    "pinyin": "yǔ"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ou",
+                    "shengdiao": 3,
+                    "pinyin": "nòu"
+                },
+                {
+                    "sheng": "t",
+                    "yun": "an",
+                    "shengdiao": 2,
+                    "pinyin": "tán"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "连甍瘴疟秋": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "ian",
+                    "shengdiao": 2,
+                    "pinyin": "lián"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "eng",
+                    "shengdiao": 2,
+                    "pinyin": "méng"
+                },
+                {
+                    "sheng": "zh",
+                    "yun": "ang",
+                    "shengdiao": 4,
+                    "pinyin": "zhàng"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "ve",
+                    "shengdiao": 4,
+                    "pinyin": "nüè"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "iu",
+                    "shengdiao": 1,
+                    "pinyin": "qiū"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "疟": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "n",
+                    "yun": "ve",
+                    "shengdiao": 4,
+                    "pinyin": "nüè"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "千叶亚梨沙": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "ian",
+                    "shengdiao": 1,
+                    "pinyin": "qiān"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "e",
+                    "shengdiao": 4,
+                    "pinyin": "yè"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "a",
+                    "shengdiao": 4,
+                    "pinyin": "yà"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "lí"
+                },
+                {
+                    "sheng": "sh",
+                    "yun": "a",
+                    "shengdiao": 1,
+                    "pinyin": "shā"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "叶": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "y",
+                    "yun": "e",
+                    "shengdiao": 4,
+                    "pinyin": "yè"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "莫小娘": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "m",
+                    "yun": "o",
+                    "shengdiao": 3,
+                    "pinyin": "mò"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "iao",
+                    "shengdiao": 3,
+                    "pinyin": "xiǎo"
+                },
+                {
+                    "sheng": "n",
+                    "yun": "iang",
+                    "shengdiao": 2,
+                    "pinyin": "niáng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "文过其意": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "w",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "wén"
+                },
+                {
+                    "sheng": "g",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "guò"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "qí"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "yì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "过": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "g",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "guò"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "椄": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 1,
+                    "pinyin": "jiē"
+                }
+            ],
+            "weight": 2
+        }
+    ],
+    "沾死碰亡": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "zh",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "zhān"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "i",
+                    "shengdiao": 3,
+                    "pinyin": "sǐ"
+                },
+                {
+                    "sheng": "p",
+                    "yun": "eng",
+                    "shengdiao": 4,
+                    "pinyin": "pèng"
+                },
+                {
+                    "sheng": "w",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "wáng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "重阳落帽": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "chóng"
+                },
+                {
+                    "sheng": "y",
+                    "yun": "ang",
+                    "shengdiao": 2,
+                    "pinyin": "yáng"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "luò"
+                },
+                {
+                    "sheng": "m",
+                    "yun": "ao",
+                    "shengdiao": 4,
+                    "pinyin": "mào"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "重": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "ch",
+                    "yun": "ong",
+                    "shengdiao": 2,
+                    "pinyin": "chóng"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "落": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "l",
+                    "yun": "uo",
+                    "shengdiao": 3,
+                    "pinyin": "luò"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "岑参兄弟皆好奇": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "c",
+                    "yun": "en",
+                    "shengdiao": 2,
+                    "pinyin": "cén"
+                },
+                {
+                    "sheng": "c",
+                    "yun": "an",
+                    "shengdiao": 1,
+                    "pinyin": "cān"
+                },
+                {
+                    "sheng": "x",
+                    "yun": "iong",
+                    "shengdiao": 1,
+                    "pinyin": "xiōng"
+                },
+                {
+                    "sheng": "d",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "dì"
+                },
+                {
+                    "sheng": "j",
+                    "yun": "ie",
+                    "shengdiao": 1,
+                    "pinyin": "jiē"
+                },
+                {
+                    "sheng": "h",
+                    "yun": "ao",
+                    "shengdiao": 3,
+                    "pinyin": "hǎo"
+                },
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "qí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "弟": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "d",
+                    "yun": "i",
+                    "shengdiao": 4,
+                    "pinyin": "dì"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "奇": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "q",
+                    "yun": "i",
+                    "shengdiao": 2,
+                    "pinyin": "qí"
+                }
+            ],
+            "weight": 1
+        }
+    ],
+    "心碎了": [
+        {
+            "pinyin": [
+                {
+                    "sheng": "x",
+                    "yun": "in",
+                    "shengdiao": 1,
+                    "pinyin": "xīn"
+                },
+                {
+                    "sheng": "s",
+                    "yun": "ui",
+                    "shengdiao": 4,
+                    "pinyin": "suì"
+                },
+                {
+                    "sheng": "l",
+                    "yun": "e",
+                    "shengdiao": 0,
+                    "pinyin": "le"
+                }
+            ],
+            "weight": 1
+        }
+    ]
+}
