@@ -6,6 +6,7 @@
 尚未完成开发……
 
 已有可用版本. 
+Typescript重构中。。。
 
 A Chinese typing practice tool. 
 Based on Electron (HTML + Javascript + Node). 
