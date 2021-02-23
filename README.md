@@ -1,6 +1,5 @@
-# Pinyin-Practice
+# Pinyin-Practice 拼音 双拼 打字 智能练习工具  
 
-拼音 双拼打字练习工具  
 基于Electron  
 主要用于练习打字速度  
 尚未完成开发……
